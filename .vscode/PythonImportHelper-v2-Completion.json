@@ -1,0 +1,2925 @@
+[
+    {
+        "label": "randint",
+        "importPath": "random",
+        "description": "random",
+        "isExtraImport": true,
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "TreeNode",
+        "importPath": "tree_node",
+        "description": "tree_node",
+        "isExtraImport": true,
+        "detail": "tree_node",
+        "documentation": {}
+    },
+    {
+        "label": "TreeNode",
+        "importPath": "tree_node",
+        "description": "tree_node",
+        "isExtraImport": true,
+        "detail": "tree_node",
+        "documentation": {}
+    },
+    {
+        "label": "TreeNode",
+        "importPath": "tree_node",
+        "description": "tree_node",
+        "isExtraImport": true,
+        "detail": "tree_node",
+        "documentation": {}
+    },
+    {
+        "label": "TreeNode",
+        "importPath": "tree_node",
+        "description": "tree_node",
+        "isExtraImport": true,
+        "detail": "tree_node",
+        "documentation": {}
+    },
+    {
+        "label": "SQLAlchemy",
+        "importPath": "flask_sqlalchemy",
+        "description": "flask_sqlalchemy",
+        "isExtraImport": true,
+        "detail": "flask_sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "SQLAlchemy",
+        "importPath": "flask_sqlalchemy",
+        "description": "flask_sqlalchemy",
+        "isExtraImport": true,
+        "detail": "flask_sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "UserMixin",
+        "importPath": "flask_login",
+        "description": "flask_login",
+        "isExtraImport": true,
+        "detail": "flask_login",
+        "documentation": {}
+    },
+    {
+        "label": "current_user",
+        "importPath": "flask_login",
+        "description": "flask_login",
+        "isExtraImport": true,
+        "detail": "flask_login",
+        "documentation": {}
+    },
+    {
+        "label": "login_required",
+        "importPath": "flask_login",
+        "description": "flask_login",
+        "isExtraImport": true,
+        "detail": "flask_login",
+        "documentation": {}
+    },
+    {
+        "label": "current_user",
+        "importPath": "flask_login",
+        "description": "flask_login",
+        "isExtraImport": true,
+        "detail": "flask_login",
+        "documentation": {}
+    },
+    {
+        "label": "login_user",
+        "importPath": "flask_login",
+        "description": "flask_login",
+        "isExtraImport": true,
+        "detail": "flask_login",
+        "documentation": {}
+    },
+    {
+        "label": "logout_user",
+        "importPath": "flask_login",
+        "description": "flask_login",
+        "isExtraImport": true,
+        "detail": "flask_login",
+        "documentation": {}
+    },
+    {
+        "label": "generate_password_hash",
+        "importPath": "werkzeug.security",
+        "description": "werkzeug.security",
+        "isExtraImport": true,
+        "detail": "werkzeug.security",
+        "documentation": {}
+    },
+    {
+        "label": "check_password_hash",
+        "importPath": "werkzeug.security",
+        "description": "werkzeug.security",
+        "isExtraImport": true,
+        "detail": "werkzeug.security",
+        "documentation": {}
+    },
+    {
+        "label": "Blueprint",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "render_template",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "url_for",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Blueprint",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "render_template",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "url_for",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Blueprint",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "render_template",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Blueprint",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "render_template",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "url_for",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "current_app",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "render_template",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Employee",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "MenuItem",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "MenuItemType",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "Order",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "OrderDetail",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "Table",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "Package",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "Employee",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "Menu",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "MenuItem",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "MenuItemType",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "Table",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "joinedload",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "FlaskForm",
+        "importPath": "flask_wtf",
+        "description": "flask_wtf",
+        "isExtraImport": true,
+        "detail": "flask_wtf",
+        "documentation": {}
+    },
+    {
+        "label": "FlaskForm",
+        "importPath": "flask_wtf",
+        "description": "flask_wtf",
+        "isExtraImport": true,
+        "detail": "flask_wtf",
+        "documentation": {}
+    },
+    {
+        "label": "FlaskForm",
+        "importPath": "flask_wtf",
+        "description": "flask_wtf",
+        "isExtraImport": true,
+        "detail": "flask_wtf",
+        "documentation": {}
+    },
+    {
+        "label": "BooleanField",
+        "importPath": "wtforms.fields",
+        "description": "wtforms.fields",
+        "isExtraImport": true,
+        "detail": "wtforms.fields",
+        "documentation": {}
+    },
+    {
+        "label": "DateField",
+        "importPath": "wtforms.fields",
+        "description": "wtforms.fields",
+        "isExtraImport": true,
+        "detail": "wtforms.fields",
+        "documentation": {}
+    },
+    {
+        "label": "StringField",
+        "importPath": "wtforms.fields",
+        "description": "wtforms.fields",
+        "isExtraImport": true,
+        "detail": "wtforms.fields",
+        "documentation": {}
+    },
+    {
+        "label": "SubmitField",
+        "importPath": "wtforms.fields",
+        "description": "wtforms.fields",
+        "isExtraImport": true,
+        "detail": "wtforms.fields",
+        "documentation": {}
+    },
+    {
+        "label": "TextAreaField",
+        "importPath": "wtforms.fields",
+        "description": "wtforms.fields",
+        "isExtraImport": true,
+        "detail": "wtforms.fields",
+        "documentation": {}
+    },
+    {
+        "label": "TimeField",
+        "importPath": "wtforms.fields",
+        "description": "wtforms.fields",
+        "isExtraImport": true,
+        "detail": "wtforms.fields",
+        "documentation": {}
+    },
+    {
+        "label": "DateInput",
+        "importPath": "wtforms.widgets.html5",
+        "description": "wtforms.widgets.html5",
+        "isExtraImport": true,
+        "detail": "wtforms.widgets.html5",
+        "documentation": {}
+    },
+    {
+        "label": "TimeInput",
+        "importPath": "wtforms.widgets.html5",
+        "description": "wtforms.widgets.html5",
+        "isExtraImport": true,
+        "detail": "wtforms.widgets.html5",
+        "documentation": {}
+    },
+    {
+        "label": "DataRequired",
+        "importPath": "wtforms.validators",
+        "description": "wtforms.validators",
+        "isExtraImport": true,
+        "detail": "wtforms.validators",
+        "documentation": {}
+    },
+    {
+        "label": "ValidationError",
+        "importPath": "wtforms.validators",
+        "description": "wtforms.validators",
+        "isExtraImport": true,
+        "detail": "wtforms.validators",
+        "documentation": {}
+    },
+    {
+        "label": "DataRequired",
+        "importPath": "wtforms.validators",
+        "description": "wtforms.validators",
+        "isExtraImport": true,
+        "detail": "wtforms.validators",
+        "documentation": {}
+    },
+    {
+        "label": "advance_delivery",
+        "importPath": "map.map",
+        "description": "map.map",
+        "isExtraImport": true,
+        "detail": "map.map",
+        "documentation": {}
+    },
+    {
+        "label": "DELIVERED",
+        "importPath": "map.map",
+        "description": "map.map",
+        "isExtraImport": true,
+        "detail": "map.map",
+        "documentation": {}
+    },
+    {
+        "label": "map",
+        "importPath": "map.map",
+        "description": "map.map",
+        "isExtraImport": true,
+        "detail": "map.map",
+        "documentation": {}
+    },
+    {
+        "label": "map",
+        "importPath": "map.map",
+        "description": "map.map",
+        "isExtraImport": true,
+        "detail": "map.map",
+        "documentation": {}
+    },
+    {
+        "label": "AppointmentForm",
+        "importPath": "app.forms",
+        "description": "app.forms",
+        "isExtraImport": true,
+        "detail": "app.forms",
+        "documentation": {}
+    },
+    {
+        "label": "psycopg2",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "psycopg2",
+        "description": "psycopg2",
+        "detail": "psycopg2",
+        "documentation": {}
+    },
+    {
+        "label": "StringField",
+        "importPath": "wtforms",
+        "description": "wtforms",
+        "isExtraImport": true,
+        "detail": "wtforms",
+        "documentation": {}
+    },
+    {
+        "label": "SelectField",
+        "importPath": "wtforms",
+        "description": "wtforms",
+        "isExtraImport": true,
+        "detail": "wtforms",
+        "documentation": {}
+    },
+    {
+        "label": "SubmitField",
+        "importPath": "wtforms",
+        "description": "wtforms",
+        "isExtraImport": true,
+        "detail": "wtforms",
+        "documentation": {}
+    },
+    {
+        "label": "IntegerField",
+        "importPath": "wtforms",
+        "description": "wtforms",
+        "isExtraImport": true,
+        "detail": "wtforms",
+        "documentation": {}
+    },
+    {
+        "label": "StringField",
+        "importPath": "wtforms",
+        "description": "wtforms",
+        "isExtraImport": true,
+        "detail": "wtforms",
+        "documentation": {}
+    },
+    {
+        "label": "SubmitField",
+        "importPath": "wtforms",
+        "description": "wtforms",
+        "isExtraImport": true,
+        "detail": "wtforms",
+        "documentation": {}
+    },
+    {
+        "label": "TextAreaField",
+        "importPath": "wtforms",
+        "description": "wtforms",
+        "isExtraImport": true,
+        "detail": "wtforms",
+        "documentation": {}
+    },
+    {
+        "label": "op",
+        "importPath": "alembic",
+        "description": "alembic",
+        "isExtraImport": true,
+        "detail": "alembic",
+        "documentation": {}
+    },
+    {
+        "label": "op",
+        "importPath": "alembic",
+        "description": "alembic",
+        "isExtraImport": true,
+        "detail": "alembic",
+        "documentation": {}
+    },
+    {
+        "label": "op",
+        "importPath": "alembic",
+        "description": "alembic",
+        "isExtraImport": true,
+        "detail": "alembic",
+        "documentation": {}
+    },
+    {
+        "label": "op",
+        "importPath": "alembic",
+        "description": "alembic",
+        "isExtraImport": true,
+        "detail": "alembic",
+        "documentation": {}
+    },
+    {
+        "label": "context",
+        "importPath": "alembic",
+        "description": "alembic",
+        "isExtraImport": true,
+        "detail": "alembic",
+        "documentation": {}
+    },
+    {
+        "label": "sqlalchemy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "engine_from_config",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "pool",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "with_statement",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "fileConfig",
+        "importPath": "logging.config",
+        "description": "logging.config",
+        "isExtraImport": true,
+        "detail": "logging.config",
+        "documentation": {}
+    },
+    {
+        "label": "pytest",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pytest",
+        "description": "pytest",
+        "detail": "pytest",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy.sql.sqltypes",
+        "description": "sqlalchemy.sql.sqltypes",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.sql.sqltypes",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy.sql.sqltypes",
+        "description": "sqlalchemy.sql.sqltypes",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.sql.sqltypes",
+        "documentation": {}
+    },
+    {
+        "label": "DeclarativeMeta",
+        "importPath": "sqlalchemy.ext.declarative",
+        "description": "sqlalchemy.ext.declarative",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.declarative",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "importPath": "app",
+        "description": "app",
+        "isExtraImport": true,
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "importPath": "app",
+        "description": "app",
+        "isExtraImport": true,
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "importPath": "app",
+        "description": "app",
+        "isExtraImport": true,
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "Migrate",
+        "importPath": "flask_migrate",
+        "description": "flask_migrate",
+        "isExtraImport": true,
+        "detail": "flask_migrate",
+        "documentation": {}
+    },
+    {
+        "label": "ShippingForm",
+        "importPath": "app.shipping_form",
+        "description": "app.shipping_form",
+        "isExtraImport": true,
+        "detail": "app.shipping_form",
+        "documentation": {}
+    },
+    {
+        "label": "Config",
+        "importPath": "app.config",
+        "description": "app.config",
+        "isExtraImport": true,
+        "detail": "app.config",
+        "documentation": {}
+    },
+    {
+        "label": "min_num",
+        "kind": 5,
+        "importPath": "guessing-game-project-master.guessing-game-project-master.terminal-version.python.guessing-game",
+        "description": "guessing-game-project-master.guessing-game-project-master.terminal-version.python.guessing-game",
+        "peekOfCode": "min_num = int(input(\"Pick a minimum number! \"))\nmax_num = int(input(\"Pick a maximum number! \"))\nsecret_number = randint(min_num, max_num)\nnum_attempts = int(input(\"How many turns do you want? \"))\nwhile num_attempts != -1:\n    user_guess = int(input(\n        f\"Try to guess the secret number, you have {num_attempts} left!  \"\n        ))\n    if user_guess < min_num or user_guess > max_num:\n        print(\"That number is not in range\")",
+        "detail": "guessing-game-project-master.guessing-game-project-master.terminal-version.python.guessing-game",
+        "documentation": {}
+    },
+    {
+        "label": "max_num",
+        "kind": 5,
+        "importPath": "guessing-game-project-master.guessing-game-project-master.terminal-version.python.guessing-game",
+        "description": "guessing-game-project-master.guessing-game-project-master.terminal-version.python.guessing-game",
+        "peekOfCode": "max_num = int(input(\"Pick a maximum number! \"))\nsecret_number = randint(min_num, max_num)\nnum_attempts = int(input(\"How many turns do you want? \"))\nwhile num_attempts != -1:\n    user_guess = int(input(\n        f\"Try to guess the secret number, you have {num_attempts} left!  \"\n        ))\n    if user_guess < min_num or user_guess > max_num:\n        print(\"That number is not in range\")\n    elif user_guess < secret_number:",
+        "detail": "guessing-game-project-master.guessing-game-project-master.terminal-version.python.guessing-game",
+        "documentation": {}
+    },
+    {
+        "label": "secret_number",
+        "kind": 5,
+        "importPath": "guessing-game-project-master.guessing-game-project-master.terminal-version.python.guessing-game",
+        "description": "guessing-game-project-master.guessing-game-project-master.terminal-version.python.guessing-game",
+        "peekOfCode": "secret_number = randint(min_num, max_num)\nnum_attempts = int(input(\"How many turns do you want? \"))\nwhile num_attempts != -1:\n    user_guess = int(input(\n        f\"Try to guess the secret number, you have {num_attempts} left!  \"\n        ))\n    if user_guess < min_num or user_guess > max_num:\n        print(\"That number is not in range\")\n    elif user_guess < secret_number:\n        print(f\"Your guess of {user_guess} is too low!\")",
+        "detail": "guessing-game-project-master.guessing-game-project-master.terminal-version.python.guessing-game",
+        "documentation": {}
+    },
+    {
+        "label": "num_attempts",
+        "kind": 5,
+        "importPath": "guessing-game-project-master.guessing-game-project-master.terminal-version.python.guessing-game",
+        "description": "guessing-game-project-master.guessing-game-project-master.terminal-version.python.guessing-game",
+        "peekOfCode": "num_attempts = int(input(\"How many turns do you want? \"))\nwhile num_attempts != -1:\n    user_guess = int(input(\n        f\"Try to guess the secret number, you have {num_attempts} left!  \"\n        ))\n    if user_guess < min_num or user_guess > max_num:\n        print(\"That number is not in range\")\n    elif user_guess < secret_number:\n        print(f\"Your guess of {user_guess} is too low!\")\n        num_attempts -= 1",
+        "detail": "guessing-game-project-master.guessing-game-project-master.terminal-version.python.guessing-game",
+        "documentation": {}
+    },
+    {
+        "label": "BinarySearchTree",
+        "kind": 6,
+        "importPath": "project-archive.binary-search-tree-solution.binary-search-tree-solution.bst",
+        "description": "project-archive.binary-search-tree-solution.binary-search-tree-solution.bst",
+        "peekOfCode": "class BinarySearchTree:\n  def __init__(self, value):\n    self._root = None\n    self._value = value\n    self._left = None\n    self._right = None\n  def insert_value(self, value, current_node=False):\n    if current_node is False:\n      if self._root is None:\n        self._root = BinarySearchTree(value)",
+        "detail": "project-archive.binary-search-tree-solution.binary-search-tree-solution.bst",
+        "documentation": {}
+    },
+    {
+        "label": "tree",
+        "kind": 5,
+        "importPath": "project-archive.binary-search-tree-solution.binary-search-tree-solution.bst",
+        "description": "project-archive.binary-search-tree-solution.binary-search-tree-solution.bst",
+        "peekOfCode": "tree = BinarySearchTree(3)\nprint(tree._root)                         # None\n# 1. Test node value insertion\ntree.insert_value(10)\ntree.insert_value(5)\ntree.insert_value(16)\ntree.insert_value(1)\ntree.insert_value(7)\ntree.insert_value(16)\nprint(tree._root._value)                  # 10",
+        "detail": "project-archive.binary-search-tree-solution.binary-search-tree-solution.bst",
+        "documentation": {}
+    },
+    {
+        "label": "empty_tree",
+        "kind": 5,
+        "importPath": "project-archive.binary-search-tree-solution.binary-search-tree-solution.bst",
+        "description": "project-archive.binary-search-tree-solution.binary-search-tree-solution.bst",
+        "peekOfCode": "empty_tree = BinarySearchTree(2)\nprint(empty_tree.search_iteratively(10))  # False\nprint(tree.search_iteratively(10))        # True\nprint(tree.search_iteratively(7))         # True\nprint(tree.search_iteratively(-1))        # False\n# 3. Test recursive search\nprint(empty_tree.search_recursively(10))  # False\nprint(tree.search_recursively(10))        # True\nprint(tree.search_recursively(7))         # True\nprint(tree.search_recursively(-1))        # False",
+        "detail": "project-archive.binary-search-tree-solution.binary-search-tree-solution.bst",
+        "documentation": {}
+    },
+    {
+        "label": "TreeNode",
+        "kind": 6,
+        "importPath": "project-archive.binary-search-tree-solution.binary-search-tree-solution.leet_code_108",
+        "description": "project-archive.binary-search-tree-solution.binary-search-tree-solution.leet_code_108",
+        "peekOfCode": "class TreeNode(object):\n  def __init__(self, val=0, left=None, right=None):\n    self.val = val\n    self.left = left\n    self.right = right\ndef sortedArrayToBST(nums):\n  \"\"\"\n  :type nums: List[int]\n  :rtype: TreeNode\n  \"\"\"",
+        "detail": "project-archive.binary-search-tree-solution.binary-search-tree-solution.leet_code_108",
+        "documentation": {}
+    },
+    {
+        "label": "sortedArrayToBST",
+        "kind": 2,
+        "importPath": "project-archive.binary-search-tree-solution.binary-search-tree-solution.leet_code_108",
+        "description": "project-archive.binary-search-tree-solution.binary-search-tree-solution.leet_code_108",
+        "peekOfCode": "def sortedArrayToBST(nums):\n  \"\"\"\n  :type nums: List[int]\n  :rtype: TreeNode\n  \"\"\"\n  if len(nums) == 0:\n    return None\n  mid_idx = int(len(nums) / 2)\n  root = TreeNode(nums[mid_idx])\n  root.left = sortedArrayToBST(nums[:mid_idx])",
+        "detail": "project-archive.binary-search-tree-solution.binary-search-tree-solution.leet_code_108",
+        "documentation": {}
+    },
+    {
+        "label": "bst_root",
+        "kind": 5,
+        "importPath": "project-archive.binary-search-tree-solution.binary-search-tree-solution.leet_code_108",
+        "description": "project-archive.binary-search-tree-solution.binary-search-tree-solution.leet_code_108",
+        "peekOfCode": "bst_root = sortedArrayToBST([-10,-3,0,5,9])\nprint(bst_root.val)               # 0\nprint(bst_root.left.val)          # -3\nprint(bst_root.left.left.val)     # -10\nprint(bst_root.right.val)         # 9\nprint(bst_root.right.left.val)    # 5\n# Returns the root of the following binary search tree:\n#       0\n#      / \\\n#    -3   9",
+        "detail": "project-archive.binary-search-tree-solution.binary-search-tree-solution.leet_code_108",
+        "documentation": {}
+    },
+    {
+        "label": "TreeNode",
+        "kind": 6,
+        "importPath": "project-archive.binary-search-tree-solution.binary-search-tree-solution.leet_code_110",
+        "description": "project-archive.binary-search-tree-solution.binary-search-tree-solution.leet_code_110",
+        "peekOfCode": "class TreeNode(object):\n  def __init__(self, val=0, left=None, right=None):\n    self.val = val\n    self.left = left\n    self.right = right\ndef getHeight(node):\n  if node is None:\n    return -1\n  return 1 + max(getHeight(node.left), getHeight(node.right))\ndef isBalanced(root):",
+        "detail": "project-archive.binary-search-tree-solution.binary-search-tree-solution.leet_code_110",
+        "documentation": {}
+    },
+    {
+        "label": "getHeight",
+        "kind": 2,
+        "importPath": "project-archive.binary-search-tree-solution.binary-search-tree-solution.leet_code_110",
+        "description": "project-archive.binary-search-tree-solution.binary-search-tree-solution.leet_code_110",
+        "peekOfCode": "def getHeight(node):\n  if node is None:\n    return -1\n  return 1 + max(getHeight(node.left), getHeight(node.right))\ndef isBalanced(root):\n  \"\"\"\n  :type root: TreeNode\n  :rtype: bool\n  \"\"\"\n  if root is None:",
+        "detail": "project-archive.binary-search-tree-solution.binary-search-tree-solution.leet_code_110",
+        "documentation": {}
+    },
+    {
+        "label": "isBalanced",
+        "kind": 2,
+        "importPath": "project-archive.binary-search-tree-solution.binary-search-tree-solution.leet_code_110",
+        "description": "project-archive.binary-search-tree-solution.binary-search-tree-solution.leet_code_110",
+        "peekOfCode": "def isBalanced(root):\n  \"\"\"\n  :type root: TreeNode\n  :rtype: bool\n  \"\"\"\n  if root is None:\n    return True\n  isValidHeight = 1 >= abs(getHeight(root.left) - getHeight(root.right))\n  return isValidHeight and isBalanced(root.left) and isBalanced(root.right)\n# Tree: [3,9,20,null,null,15,7]",
+        "detail": "project-archive.binary-search-tree-solution.binary-search-tree-solution.leet_code_110",
+        "documentation": {}
+    },
+    {
+        "label": "node_3",
+        "kind": 5,
+        "importPath": "project-archive.binary-search-tree-solution.binary-search-tree-solution.leet_code_110",
+        "description": "project-archive.binary-search-tree-solution.binary-search-tree-solution.leet_code_110",
+        "peekOfCode": "node_3 = TreeNode(3)\nnode_20 = TreeNode(20)\nnode_3.left = TreeNode(9)\nnode_3.right = node_20\nnode_20.left = TreeNode(15)\nnode_20.right = TreeNode(7)\nprint(isBalanced(node_3))   # True\n# Tree: [1,2,2,3,3,null,null,4,4]\n#        1\n#       / \\",
+        "detail": "project-archive.binary-search-tree-solution.binary-search-tree-solution.leet_code_110",
+        "documentation": {}
+    },
+    {
+        "label": "node_20",
+        "kind": 5,
+        "importPath": "project-archive.binary-search-tree-solution.binary-search-tree-solution.leet_code_110",
+        "description": "project-archive.binary-search-tree-solution.binary-search-tree-solution.leet_code_110",
+        "peekOfCode": "node_20 = TreeNode(20)\nnode_3.left = TreeNode(9)\nnode_3.right = node_20\nnode_20.left = TreeNode(15)\nnode_20.right = TreeNode(7)\nprint(isBalanced(node_3))   # True\n# Tree: [1,2,2,3,3,null,null,4,4]\n#        1\n#       / \\\n#      2   2",
+        "detail": "project-archive.binary-search-tree-solution.binary-search-tree-solution.leet_code_110",
+        "documentation": {}
+    },
+    {
+        "label": "node_3.left",
+        "kind": 5,
+        "importPath": "project-archive.binary-search-tree-solution.binary-search-tree-solution.leet_code_110",
+        "description": "project-archive.binary-search-tree-solution.binary-search-tree-solution.leet_code_110",
+        "peekOfCode": "node_3.left = TreeNode(9)\nnode_3.right = node_20\nnode_20.left = TreeNode(15)\nnode_20.right = TreeNode(7)\nprint(isBalanced(node_3))   # True\n# Tree: [1,2,2,3,3,null,null,4,4]\n#        1\n#       / \\\n#      2   2\n#     / \\",
+        "detail": "project-archive.binary-search-tree-solution.binary-search-tree-solution.leet_code_110",
+        "documentation": {}
+    },
+    {
+        "label": "node_3.right",
+        "kind": 5,
+        "importPath": "project-archive.binary-search-tree-solution.binary-search-tree-solution.leet_code_110",
+        "description": "project-archive.binary-search-tree-solution.binary-search-tree-solution.leet_code_110",
+        "peekOfCode": "node_3.right = node_20\nnode_20.left = TreeNode(15)\nnode_20.right = TreeNode(7)\nprint(isBalanced(node_3))   # True\n# Tree: [1,2,2,3,3,null,null,4,4]\n#        1\n#       / \\\n#      2   2\n#     / \\\n#    3   3",
+        "detail": "project-archive.binary-search-tree-solution.binary-search-tree-solution.leet_code_110",
+        "documentation": {}
+    },
+    {
+        "label": "node_20.left",
+        "kind": 5,
+        "importPath": "project-archive.binary-search-tree-solution.binary-search-tree-solution.leet_code_110",
+        "description": "project-archive.binary-search-tree-solution.binary-search-tree-solution.leet_code_110",
+        "peekOfCode": "node_20.left = TreeNode(15)\nnode_20.right = TreeNode(7)\nprint(isBalanced(node_3))   # True\n# Tree: [1,2,2,3,3,null,null,4,4]\n#        1\n#       / \\\n#      2   2\n#     / \\\n#    3   3\n#   / \\",
+        "detail": "project-archive.binary-search-tree-solution.binary-search-tree-solution.leet_code_110",
+        "documentation": {}
+    },
+    {
+        "label": "node_20.right",
+        "kind": 5,
+        "importPath": "project-archive.binary-search-tree-solution.binary-search-tree-solution.leet_code_110",
+        "description": "project-archive.binary-search-tree-solution.binary-search-tree-solution.leet_code_110",
+        "peekOfCode": "node_20.right = TreeNode(7)\nprint(isBalanced(node_3))   # True\n# Tree: [1,2,2,3,3,null,null,4,4]\n#        1\n#       / \\\n#      2   2\n#     / \\\n#    3   3\n#   / \\\n#  4   4",
+        "detail": "project-archive.binary-search-tree-solution.binary-search-tree-solution.leet_code_110",
+        "documentation": {}
+    },
+    {
+        "label": "node_1",
+        "kind": 5,
+        "importPath": "project-archive.binary-search-tree-solution.binary-search-tree-solution.leet_code_110",
+        "description": "project-archive.binary-search-tree-solution.binary-search-tree-solution.leet_code_110",
+        "peekOfCode": "node_1 = TreeNode(1)\nnode_2a = TreeNode(2)\nnode_2b = TreeNode(2)\nnode_1.left = node_2a\nnode_1.right = node_2b\nnode_3a = TreeNode(3)\nnode_3b = TreeNode(3)\nnode_2a.left = node_3a\nnode_2a.right = node_3b\nnode_4a = TreeNode(4)",
+        "detail": "project-archive.binary-search-tree-solution.binary-search-tree-solution.leet_code_110",
+        "documentation": {}
+    },
+    {
+        "label": "node_2a",
+        "kind": 5,
+        "importPath": "project-archive.binary-search-tree-solution.binary-search-tree-solution.leet_code_110",
+        "description": "project-archive.binary-search-tree-solution.binary-search-tree-solution.leet_code_110",
+        "peekOfCode": "node_2a = TreeNode(2)\nnode_2b = TreeNode(2)\nnode_1.left = node_2a\nnode_1.right = node_2b\nnode_3a = TreeNode(3)\nnode_3b = TreeNode(3)\nnode_2a.left = node_3a\nnode_2a.right = node_3b\nnode_4a = TreeNode(4)\nnode_4b = TreeNode(4)",
+        "detail": "project-archive.binary-search-tree-solution.binary-search-tree-solution.leet_code_110",
+        "documentation": {}
+    },
+    {
+        "label": "node_2b",
+        "kind": 5,
+        "importPath": "project-archive.binary-search-tree-solution.binary-search-tree-solution.leet_code_110",
+        "description": "project-archive.binary-search-tree-solution.binary-search-tree-solution.leet_code_110",
+        "peekOfCode": "node_2b = TreeNode(2)\nnode_1.left = node_2a\nnode_1.right = node_2b\nnode_3a = TreeNode(3)\nnode_3b = TreeNode(3)\nnode_2a.left = node_3a\nnode_2a.right = node_3b\nnode_4a = TreeNode(4)\nnode_4b = TreeNode(4)\nnode_3a.left = node_4a",
+        "detail": "project-archive.binary-search-tree-solution.binary-search-tree-solution.leet_code_110",
+        "documentation": {}
+    },
+    {
+        "label": "node_1.left",
+        "kind": 5,
+        "importPath": "project-archive.binary-search-tree-solution.binary-search-tree-solution.leet_code_110",
+        "description": "project-archive.binary-search-tree-solution.binary-search-tree-solution.leet_code_110",
+        "peekOfCode": "node_1.left = node_2a\nnode_1.right = node_2b\nnode_3a = TreeNode(3)\nnode_3b = TreeNode(3)\nnode_2a.left = node_3a\nnode_2a.right = node_3b\nnode_4a = TreeNode(4)\nnode_4b = TreeNode(4)\nnode_3a.left = node_4a\nnode_3a.right = node_4b",
+        "detail": "project-archive.binary-search-tree-solution.binary-search-tree-solution.leet_code_110",
+        "documentation": {}
+    },
+    {
+        "label": "node_1.right",
+        "kind": 5,
+        "importPath": "project-archive.binary-search-tree-solution.binary-search-tree-solution.leet_code_110",
+        "description": "project-archive.binary-search-tree-solution.binary-search-tree-solution.leet_code_110",
+        "peekOfCode": "node_1.right = node_2b\nnode_3a = TreeNode(3)\nnode_3b = TreeNode(3)\nnode_2a.left = node_3a\nnode_2a.right = node_3b\nnode_4a = TreeNode(4)\nnode_4b = TreeNode(4)\nnode_3a.left = node_4a\nnode_3a.right = node_4b\nprint(isBalanced(node_1))   # False",
+        "detail": "project-archive.binary-search-tree-solution.binary-search-tree-solution.leet_code_110",
+        "documentation": {}
+    },
+    {
+        "label": "node_3a",
+        "kind": 5,
+        "importPath": "project-archive.binary-search-tree-solution.binary-search-tree-solution.leet_code_110",
+        "description": "project-archive.binary-search-tree-solution.binary-search-tree-solution.leet_code_110",
+        "peekOfCode": "node_3a = TreeNode(3)\nnode_3b = TreeNode(3)\nnode_2a.left = node_3a\nnode_2a.right = node_3b\nnode_4a = TreeNode(4)\nnode_4b = TreeNode(4)\nnode_3a.left = node_4a\nnode_3a.right = node_4b\nprint(isBalanced(node_1))   # False",
+        "detail": "project-archive.binary-search-tree-solution.binary-search-tree-solution.leet_code_110",
+        "documentation": {}
+    },
+    {
+        "label": "node_3b",
+        "kind": 5,
+        "importPath": "project-archive.binary-search-tree-solution.binary-search-tree-solution.leet_code_110",
+        "description": "project-archive.binary-search-tree-solution.binary-search-tree-solution.leet_code_110",
+        "peekOfCode": "node_3b = TreeNode(3)\nnode_2a.left = node_3a\nnode_2a.right = node_3b\nnode_4a = TreeNode(4)\nnode_4b = TreeNode(4)\nnode_3a.left = node_4a\nnode_3a.right = node_4b\nprint(isBalanced(node_1))   # False",
+        "detail": "project-archive.binary-search-tree-solution.binary-search-tree-solution.leet_code_110",
+        "documentation": {}
+    },
+    {
+        "label": "node_2a.left",
+        "kind": 5,
+        "importPath": "project-archive.binary-search-tree-solution.binary-search-tree-solution.leet_code_110",
+        "description": "project-archive.binary-search-tree-solution.binary-search-tree-solution.leet_code_110",
+        "peekOfCode": "node_2a.left = node_3a\nnode_2a.right = node_3b\nnode_4a = TreeNode(4)\nnode_4b = TreeNode(4)\nnode_3a.left = node_4a\nnode_3a.right = node_4b\nprint(isBalanced(node_1))   # False",
+        "detail": "project-archive.binary-search-tree-solution.binary-search-tree-solution.leet_code_110",
+        "documentation": {}
+    },
+    {
+        "label": "node_2a.right",
+        "kind": 5,
+        "importPath": "project-archive.binary-search-tree-solution.binary-search-tree-solution.leet_code_110",
+        "description": "project-archive.binary-search-tree-solution.binary-search-tree-solution.leet_code_110",
+        "peekOfCode": "node_2a.right = node_3b\nnode_4a = TreeNode(4)\nnode_4b = TreeNode(4)\nnode_3a.left = node_4a\nnode_3a.right = node_4b\nprint(isBalanced(node_1))   # False",
+        "detail": "project-archive.binary-search-tree-solution.binary-search-tree-solution.leet_code_110",
+        "documentation": {}
+    },
+    {
+        "label": "node_4a",
+        "kind": 5,
+        "importPath": "project-archive.binary-search-tree-solution.binary-search-tree-solution.leet_code_110",
+        "description": "project-archive.binary-search-tree-solution.binary-search-tree-solution.leet_code_110",
+        "peekOfCode": "node_4a = TreeNode(4)\nnode_4b = TreeNode(4)\nnode_3a.left = node_4a\nnode_3a.right = node_4b\nprint(isBalanced(node_1))   # False",
+        "detail": "project-archive.binary-search-tree-solution.binary-search-tree-solution.leet_code_110",
+        "documentation": {}
+    },
+    {
+        "label": "node_4b",
+        "kind": 5,
+        "importPath": "project-archive.binary-search-tree-solution.binary-search-tree-solution.leet_code_110",
+        "description": "project-archive.binary-search-tree-solution.binary-search-tree-solution.leet_code_110",
+        "peekOfCode": "node_4b = TreeNode(4)\nnode_3a.left = node_4a\nnode_3a.right = node_4b\nprint(isBalanced(node_1))   # False",
+        "detail": "project-archive.binary-search-tree-solution.binary-search-tree-solution.leet_code_110",
+        "documentation": {}
+    },
+    {
+        "label": "node_3a.left",
+        "kind": 5,
+        "importPath": "project-archive.binary-search-tree-solution.binary-search-tree-solution.leet_code_110",
+        "description": "project-archive.binary-search-tree-solution.binary-search-tree-solution.leet_code_110",
+        "peekOfCode": "node_3a.left = node_4a\nnode_3a.right = node_4b\nprint(isBalanced(node_1))   # False",
+        "detail": "project-archive.binary-search-tree-solution.binary-search-tree-solution.leet_code_110",
+        "documentation": {}
+    },
+    {
+        "label": "node_3a.right",
+        "kind": 5,
+        "importPath": "project-archive.binary-search-tree-solution.binary-search-tree-solution.leet_code_110",
+        "description": "project-archive.binary-search-tree-solution.binary-search-tree-solution.leet_code_110",
+        "peekOfCode": "node_3a.right = node_4b\nprint(isBalanced(node_1))   # False",
+        "detail": "project-archive.binary-search-tree-solution.binary-search-tree-solution.leet_code_110",
+        "documentation": {}
+    },
+    {
+        "label": "BinarySearchTree",
+        "kind": 6,
+        "importPath": "project-archive.binary-search-tree-solution.bst",
+        "description": "project-archive.binary-search-tree-solution.bst",
+        "peekOfCode": "class BinarySearchTree:\n  def __init__(self, value):\n    self._root = None\n    self._value = value\n    self._left = None\n    self._right = None\n  def insert_value(self, value, current_node=False):\n    if current_node is False:\n      if self._root is None:\n        self._root = BinarySearchTree(value)",
+        "detail": "project-archive.binary-search-tree-solution.bst",
+        "documentation": {}
+    },
+    {
+        "label": "tree",
+        "kind": 5,
+        "importPath": "project-archive.binary-search-tree-solution.bst",
+        "description": "project-archive.binary-search-tree-solution.bst",
+        "peekOfCode": "tree = BinarySearchTree(3)\nprint(tree._root)                         # None\n# 1. Test node value insertion\ntree.insert_value(10)\ntree.insert_value(5)\ntree.insert_value(16)\ntree.insert_value(1)\ntree.insert_value(7)\ntree.insert_value(16)\nprint(tree._root._value)                  # 10",
+        "detail": "project-archive.binary-search-tree-solution.bst",
+        "documentation": {}
+    },
+    {
+        "label": "empty_tree",
+        "kind": 5,
+        "importPath": "project-archive.binary-search-tree-solution.bst",
+        "description": "project-archive.binary-search-tree-solution.bst",
+        "peekOfCode": "empty_tree = BinarySearchTree(2)\nprint(empty_tree.search_iteratively(10))  # False\nprint(tree.search_iteratively(10))        # True\nprint(tree.search_iteratively(7))         # True\nprint(tree.search_iteratively(-1))        # False\n# 3. Test recursive search\nprint(empty_tree.search_recursively(10))  # False\nprint(tree.search_recursively(10))        # True\nprint(tree.search_recursively(7))         # True\nprint(tree.search_recursively(-1))        # False",
+        "detail": "project-archive.binary-search-tree-solution.bst",
+        "documentation": {}
+    },
+    {
+        "label": "TreeNode",
+        "kind": 6,
+        "importPath": "project-archive.binary-search-tree-solution.leet_code_108",
+        "description": "project-archive.binary-search-tree-solution.leet_code_108",
+        "peekOfCode": "class TreeNode(object):\n  def __init__(self, val=0, left=None, right=None):\n    self.val = val\n    self.left = left\n    self.right = right\ndef sortedArrayToBST(nums):\n  \"\"\"\n  :type nums: List[int]\n  :rtype: TreeNode\n  \"\"\"",
+        "detail": "project-archive.binary-search-tree-solution.leet_code_108",
+        "documentation": {}
+    },
+    {
+        "label": "sortedArrayToBST",
+        "kind": 2,
+        "importPath": "project-archive.binary-search-tree-solution.leet_code_108",
+        "description": "project-archive.binary-search-tree-solution.leet_code_108",
+        "peekOfCode": "def sortedArrayToBST(nums):\n  \"\"\"\n  :type nums: List[int]\n  :rtype: TreeNode\n  \"\"\"\n  if len(nums) == 0:\n    return None\n  mid_idx = int(len(nums) / 2)\n  root = TreeNode(nums[mid_idx])\n  root.left = sortedArrayToBST(nums[:mid_idx])",
+        "detail": "project-archive.binary-search-tree-solution.leet_code_108",
+        "documentation": {}
+    },
+    {
+        "label": "bst_root",
+        "kind": 5,
+        "importPath": "project-archive.binary-search-tree-solution.leet_code_108",
+        "description": "project-archive.binary-search-tree-solution.leet_code_108",
+        "peekOfCode": "bst_root = sortedArrayToBST([-10,-3,0,5,9])\nprint(bst_root.val)               # 0\nprint(bst_root.left.val)          # -3\nprint(bst_root.left.left.val)     # -10\nprint(bst_root.right.val)         # 9\nprint(bst_root.right.left.val)    # 5\n# Returns the root of the following binary search tree:\n#       0\n#      / \\\n#    -3   9",
+        "detail": "project-archive.binary-search-tree-solution.leet_code_108",
+        "documentation": {}
+    },
+    {
+        "label": "TreeNode",
+        "kind": 6,
+        "importPath": "project-archive.binary-search-tree-solution.leet_code_110",
+        "description": "project-archive.binary-search-tree-solution.leet_code_110",
+        "peekOfCode": "class TreeNode(object):\n  def __init__(self, val=0, left=None, right=None):\n    self.val = val\n    self.left = left\n    self.right = right\ndef getHeight(node):\n  if node is None:\n    return -1\n  return 1 + max(getHeight(node.left), getHeight(node.right))\ndef isBalanced(root):",
+        "detail": "project-archive.binary-search-tree-solution.leet_code_110",
+        "documentation": {}
+    },
+    {
+        "label": "getHeight",
+        "kind": 2,
+        "importPath": "project-archive.binary-search-tree-solution.leet_code_110",
+        "description": "project-archive.binary-search-tree-solution.leet_code_110",
+        "peekOfCode": "def getHeight(node):\n  if node is None:\n    return -1\n  return 1 + max(getHeight(node.left), getHeight(node.right))\ndef isBalanced(root):\n  \"\"\"\n  :type root: TreeNode\n  :rtype: bool\n  \"\"\"\n  if root is None:",
+        "detail": "project-archive.binary-search-tree-solution.leet_code_110",
+        "documentation": {}
+    },
+    {
+        "label": "isBalanced",
+        "kind": 2,
+        "importPath": "project-archive.binary-search-tree-solution.leet_code_110",
+        "description": "project-archive.binary-search-tree-solution.leet_code_110",
+        "peekOfCode": "def isBalanced(root):\n  \"\"\"\n  :type root: TreeNode\n  :rtype: bool\n  \"\"\"\n  if root is None:\n    return True\n  isValidHeight = 1 >= abs(getHeight(root.left) - getHeight(root.right))\n  return isValidHeight and isBalanced(root.left) and isBalanced(root.right)\n# Tree: [3,9,20,null,null,15,7]",
+        "detail": "project-archive.binary-search-tree-solution.leet_code_110",
+        "documentation": {}
+    },
+    {
+        "label": "node_3",
+        "kind": 5,
+        "importPath": "project-archive.binary-search-tree-solution.leet_code_110",
+        "description": "project-archive.binary-search-tree-solution.leet_code_110",
+        "peekOfCode": "node_3 = TreeNode(3)\nnode_20 = TreeNode(20)\nnode_3.left = TreeNode(9)\nnode_3.right = node_20\nnode_20.left = TreeNode(15)\nnode_20.right = TreeNode(7)\nprint(isBalanced(node_3))   # True\n# Tree: [1,2,2,3,3,null,null,4,4]\n#        1\n#       / \\",
+        "detail": "project-archive.binary-search-tree-solution.leet_code_110",
+        "documentation": {}
+    },
+    {
+        "label": "node_20",
+        "kind": 5,
+        "importPath": "project-archive.binary-search-tree-solution.leet_code_110",
+        "description": "project-archive.binary-search-tree-solution.leet_code_110",
+        "peekOfCode": "node_20 = TreeNode(20)\nnode_3.left = TreeNode(9)\nnode_3.right = node_20\nnode_20.left = TreeNode(15)\nnode_20.right = TreeNode(7)\nprint(isBalanced(node_3))   # True\n# Tree: [1,2,2,3,3,null,null,4,4]\n#        1\n#       / \\\n#      2   2",
+        "detail": "project-archive.binary-search-tree-solution.leet_code_110",
+        "documentation": {}
+    },
+    {
+        "label": "node_3.left",
+        "kind": 5,
+        "importPath": "project-archive.binary-search-tree-solution.leet_code_110",
+        "description": "project-archive.binary-search-tree-solution.leet_code_110",
+        "peekOfCode": "node_3.left = TreeNode(9)\nnode_3.right = node_20\nnode_20.left = TreeNode(15)\nnode_20.right = TreeNode(7)\nprint(isBalanced(node_3))   # True\n# Tree: [1,2,2,3,3,null,null,4,4]\n#        1\n#       / \\\n#      2   2\n#     / \\",
+        "detail": "project-archive.binary-search-tree-solution.leet_code_110",
+        "documentation": {}
+    },
+    {
+        "label": "node_3.right",
+        "kind": 5,
+        "importPath": "project-archive.binary-search-tree-solution.leet_code_110",
+        "description": "project-archive.binary-search-tree-solution.leet_code_110",
+        "peekOfCode": "node_3.right = node_20\nnode_20.left = TreeNode(15)\nnode_20.right = TreeNode(7)\nprint(isBalanced(node_3))   # True\n# Tree: [1,2,2,3,3,null,null,4,4]\n#        1\n#       / \\\n#      2   2\n#     / \\\n#    3   3",
+        "detail": "project-archive.binary-search-tree-solution.leet_code_110",
+        "documentation": {}
+    },
+    {
+        "label": "node_20.left",
+        "kind": 5,
+        "importPath": "project-archive.binary-search-tree-solution.leet_code_110",
+        "description": "project-archive.binary-search-tree-solution.leet_code_110",
+        "peekOfCode": "node_20.left = TreeNode(15)\nnode_20.right = TreeNode(7)\nprint(isBalanced(node_3))   # True\n# Tree: [1,2,2,3,3,null,null,4,4]\n#        1\n#       / \\\n#      2   2\n#     / \\\n#    3   3\n#   / \\",
+        "detail": "project-archive.binary-search-tree-solution.leet_code_110",
+        "documentation": {}
+    },
+    {
+        "label": "node_20.right",
+        "kind": 5,
+        "importPath": "project-archive.binary-search-tree-solution.leet_code_110",
+        "description": "project-archive.binary-search-tree-solution.leet_code_110",
+        "peekOfCode": "node_20.right = TreeNode(7)\nprint(isBalanced(node_3))   # True\n# Tree: [1,2,2,3,3,null,null,4,4]\n#        1\n#       / \\\n#      2   2\n#     / \\\n#    3   3\n#   / \\\n#  4   4",
+        "detail": "project-archive.binary-search-tree-solution.leet_code_110",
+        "documentation": {}
+    },
+    {
+        "label": "node_1",
+        "kind": 5,
+        "importPath": "project-archive.binary-search-tree-solution.leet_code_110",
+        "description": "project-archive.binary-search-tree-solution.leet_code_110",
+        "peekOfCode": "node_1 = TreeNode(1)\nnode_2a = TreeNode(2)\nnode_2b = TreeNode(2)\nnode_1.left = node_2a\nnode_1.right = node_2b\nnode_3a = TreeNode(3)\nnode_3b = TreeNode(3)\nnode_2a.left = node_3a\nnode_2a.right = node_3b\nnode_4a = TreeNode(4)",
+        "detail": "project-archive.binary-search-tree-solution.leet_code_110",
+        "documentation": {}
+    },
+    {
+        "label": "node_2a",
+        "kind": 5,
+        "importPath": "project-archive.binary-search-tree-solution.leet_code_110",
+        "description": "project-archive.binary-search-tree-solution.leet_code_110",
+        "peekOfCode": "node_2a = TreeNode(2)\nnode_2b = TreeNode(2)\nnode_1.left = node_2a\nnode_1.right = node_2b\nnode_3a = TreeNode(3)\nnode_3b = TreeNode(3)\nnode_2a.left = node_3a\nnode_2a.right = node_3b\nnode_4a = TreeNode(4)\nnode_4b = TreeNode(4)",
+        "detail": "project-archive.binary-search-tree-solution.leet_code_110",
+        "documentation": {}
+    },
+    {
+        "label": "node_2b",
+        "kind": 5,
+        "importPath": "project-archive.binary-search-tree-solution.leet_code_110",
+        "description": "project-archive.binary-search-tree-solution.leet_code_110",
+        "peekOfCode": "node_2b = TreeNode(2)\nnode_1.left = node_2a\nnode_1.right = node_2b\nnode_3a = TreeNode(3)\nnode_3b = TreeNode(3)\nnode_2a.left = node_3a\nnode_2a.right = node_3b\nnode_4a = TreeNode(4)\nnode_4b = TreeNode(4)\nnode_3a.left = node_4a",
+        "detail": "project-archive.binary-search-tree-solution.leet_code_110",
+        "documentation": {}
+    },
+    {
+        "label": "node_1.left",
+        "kind": 5,
+        "importPath": "project-archive.binary-search-tree-solution.leet_code_110",
+        "description": "project-archive.binary-search-tree-solution.leet_code_110",
+        "peekOfCode": "node_1.left = node_2a\nnode_1.right = node_2b\nnode_3a = TreeNode(3)\nnode_3b = TreeNode(3)\nnode_2a.left = node_3a\nnode_2a.right = node_3b\nnode_4a = TreeNode(4)\nnode_4b = TreeNode(4)\nnode_3a.left = node_4a\nnode_3a.right = node_4b",
+        "detail": "project-archive.binary-search-tree-solution.leet_code_110",
+        "documentation": {}
+    },
+    {
+        "label": "node_1.right",
+        "kind": 5,
+        "importPath": "project-archive.binary-search-tree-solution.leet_code_110",
+        "description": "project-archive.binary-search-tree-solution.leet_code_110",
+        "peekOfCode": "node_1.right = node_2b\nnode_3a = TreeNode(3)\nnode_3b = TreeNode(3)\nnode_2a.left = node_3a\nnode_2a.right = node_3b\nnode_4a = TreeNode(4)\nnode_4b = TreeNode(4)\nnode_3a.left = node_4a\nnode_3a.right = node_4b\nprint(isBalanced(node_1))   # False",
+        "detail": "project-archive.binary-search-tree-solution.leet_code_110",
+        "documentation": {}
+    },
+    {
+        "label": "node_3a",
+        "kind": 5,
+        "importPath": "project-archive.binary-search-tree-solution.leet_code_110",
+        "description": "project-archive.binary-search-tree-solution.leet_code_110",
+        "peekOfCode": "node_3a = TreeNode(3)\nnode_3b = TreeNode(3)\nnode_2a.left = node_3a\nnode_2a.right = node_3b\nnode_4a = TreeNode(4)\nnode_4b = TreeNode(4)\nnode_3a.left = node_4a\nnode_3a.right = node_4b\nprint(isBalanced(node_1))   # False",
+        "detail": "project-archive.binary-search-tree-solution.leet_code_110",
+        "documentation": {}
+    },
+    {
+        "label": "node_3b",
+        "kind": 5,
+        "importPath": "project-archive.binary-search-tree-solution.leet_code_110",
+        "description": "project-archive.binary-search-tree-solution.leet_code_110",
+        "peekOfCode": "node_3b = TreeNode(3)\nnode_2a.left = node_3a\nnode_2a.right = node_3b\nnode_4a = TreeNode(4)\nnode_4b = TreeNode(4)\nnode_3a.left = node_4a\nnode_3a.right = node_4b\nprint(isBalanced(node_1))   # False",
+        "detail": "project-archive.binary-search-tree-solution.leet_code_110",
+        "documentation": {}
+    },
+    {
+        "label": "node_2a.left",
+        "kind": 5,
+        "importPath": "project-archive.binary-search-tree-solution.leet_code_110",
+        "description": "project-archive.binary-search-tree-solution.leet_code_110",
+        "peekOfCode": "node_2a.left = node_3a\nnode_2a.right = node_3b\nnode_4a = TreeNode(4)\nnode_4b = TreeNode(4)\nnode_3a.left = node_4a\nnode_3a.right = node_4b\nprint(isBalanced(node_1))   # False",
+        "detail": "project-archive.binary-search-tree-solution.leet_code_110",
+        "documentation": {}
+    },
+    {
+        "label": "node_2a.right",
+        "kind": 5,
+        "importPath": "project-archive.binary-search-tree-solution.leet_code_110",
+        "description": "project-archive.binary-search-tree-solution.leet_code_110",
+        "peekOfCode": "node_2a.right = node_3b\nnode_4a = TreeNode(4)\nnode_4b = TreeNode(4)\nnode_3a.left = node_4a\nnode_3a.right = node_4b\nprint(isBalanced(node_1))   # False",
+        "detail": "project-archive.binary-search-tree-solution.leet_code_110",
+        "documentation": {}
+    },
+    {
+        "label": "node_4a",
+        "kind": 5,
+        "importPath": "project-archive.binary-search-tree-solution.leet_code_110",
+        "description": "project-archive.binary-search-tree-solution.leet_code_110",
+        "peekOfCode": "node_4a = TreeNode(4)\nnode_4b = TreeNode(4)\nnode_3a.left = node_4a\nnode_3a.right = node_4b\nprint(isBalanced(node_1))   # False",
+        "detail": "project-archive.binary-search-tree-solution.leet_code_110",
+        "documentation": {}
+    },
+    {
+        "label": "node_4b",
+        "kind": 5,
+        "importPath": "project-archive.binary-search-tree-solution.leet_code_110",
+        "description": "project-archive.binary-search-tree-solution.leet_code_110",
+        "peekOfCode": "node_4b = TreeNode(4)\nnode_3a.left = node_4a\nnode_3a.right = node_4b\nprint(isBalanced(node_1))   # False",
+        "detail": "project-archive.binary-search-tree-solution.leet_code_110",
+        "documentation": {}
+    },
+    {
+        "label": "node_3a.left",
+        "kind": 5,
+        "importPath": "project-archive.binary-search-tree-solution.leet_code_110",
+        "description": "project-archive.binary-search-tree-solution.leet_code_110",
+        "peekOfCode": "node_3a.left = node_4a\nnode_3a.right = node_4b\nprint(isBalanced(node_1))   # False",
+        "detail": "project-archive.binary-search-tree-solution.leet_code_110",
+        "documentation": {}
+    },
+    {
+        "label": "node_3a.right",
+        "kind": 5,
+        "importPath": "project-archive.binary-search-tree-solution.leet_code_110",
+        "description": "project-archive.binary-search-tree-solution.leet_code_110",
+        "peekOfCode": "node_3a.right = node_4b\nprint(isBalanced(node_1))   # False",
+        "detail": "project-archive.binary-search-tree-solution.leet_code_110",
+        "documentation": {}
+    },
+    {
+        "label": "BinarySearchTree",
+        "kind": 6,
+        "importPath": "project-archive.binary-search-tree-solution-python.binary-search-tree-solution.bst",
+        "description": "project-archive.binary-search-tree-solution-python.binary-search-tree-solution.bst",
+        "peekOfCode": "class BinarySearchTree:\n  def __init__(self, value):\n    self._root = None\n    self._value = value\n    self._left = None\n    self._right = None\n  def insert_value(self, value, current_node=False):\n    if current_node is False:\n      if self._root is None:\n        self._root = BinarySearchTree(value)",
+        "detail": "project-archive.binary-search-tree-solution-python.binary-search-tree-solution.bst",
+        "documentation": {}
+    },
+    {
+        "label": "tree",
+        "kind": 5,
+        "importPath": "project-archive.binary-search-tree-solution-python.binary-search-tree-solution.bst",
+        "description": "project-archive.binary-search-tree-solution-python.binary-search-tree-solution.bst",
+        "peekOfCode": "tree = BinarySearchTree(3)\nprint(tree._root)                         # None\n# 1. Test node value insertion\ntree.insert_value(10)\ntree.insert_value(5)\ntree.insert_value(16)\ntree.insert_value(1)\ntree.insert_value(7)\ntree.insert_value(16)\nprint(tree._root._value)                  # 10",
+        "detail": "project-archive.binary-search-tree-solution-python.binary-search-tree-solution.bst",
+        "documentation": {}
+    },
+    {
+        "label": "empty_tree",
+        "kind": 5,
+        "importPath": "project-archive.binary-search-tree-solution-python.binary-search-tree-solution.bst",
+        "description": "project-archive.binary-search-tree-solution-python.binary-search-tree-solution.bst",
+        "peekOfCode": "empty_tree = BinarySearchTree(2)\nprint(empty_tree.search_iteratively(10))  # False\nprint(tree.search_iteratively(10))        # True\nprint(tree.search_iteratively(7))         # True\nprint(tree.search_iteratively(-1))        # False\n# 3. Test recursive search\nprint(empty_tree.search_recursively(10))  # False\nprint(tree.search_recursively(10))        # True\nprint(tree.search_recursively(7))         # True\nprint(tree.search_recursively(-1))        # False",
+        "detail": "project-archive.binary-search-tree-solution-python.binary-search-tree-solution.bst",
+        "documentation": {}
+    },
+    {
+        "label": "TreeNode",
+        "kind": 6,
+        "importPath": "project-archive.binary-search-tree-solution-python.binary-search-tree-solution.leet_code_108",
+        "description": "project-archive.binary-search-tree-solution-python.binary-search-tree-solution.leet_code_108",
+        "peekOfCode": "class TreeNode(object):\n  def __init__(self, val=0, left=None, right=None):\n    self.val = val\n    self.left = left\n    self.right = right\ndef sortedArrayToBST(nums):\n  \"\"\"\n  :type nums: List[int]\n  :rtype: TreeNode\n  \"\"\"",
+        "detail": "project-archive.binary-search-tree-solution-python.binary-search-tree-solution.leet_code_108",
+        "documentation": {}
+    },
+    {
+        "label": "sortedArrayToBST",
+        "kind": 2,
+        "importPath": "project-archive.binary-search-tree-solution-python.binary-search-tree-solution.leet_code_108",
+        "description": "project-archive.binary-search-tree-solution-python.binary-search-tree-solution.leet_code_108",
+        "peekOfCode": "def sortedArrayToBST(nums):\n  \"\"\"\n  :type nums: List[int]\n  :rtype: TreeNode\n  \"\"\"\n  if len(nums) == 0:\n    return None\n  mid_idx = int(len(nums) / 2)\n  root = TreeNode(nums[mid_idx])\n  root.left = sortedArrayToBST(nums[:mid_idx])",
+        "detail": "project-archive.binary-search-tree-solution-python.binary-search-tree-solution.leet_code_108",
+        "documentation": {}
+    },
+    {
+        "label": "bst_root",
+        "kind": 5,
+        "importPath": "project-archive.binary-search-tree-solution-python.binary-search-tree-solution.leet_code_108",
+        "description": "project-archive.binary-search-tree-solution-python.binary-search-tree-solution.leet_code_108",
+        "peekOfCode": "bst_root = sortedArrayToBST([-10,-3,0,5,9])\nprint(bst_root.val)               # 0\nprint(bst_root.left.val)          # -3\nprint(bst_root.left.left.val)     # -10\nprint(bst_root.right.val)         # 9\nprint(bst_root.right.left.val)    # 5\n# Returns the root of the following binary search tree:\n#       0\n#      / \\\n#    -3   9",
+        "detail": "project-archive.binary-search-tree-solution-python.binary-search-tree-solution.leet_code_108",
+        "documentation": {}
+    },
+    {
+        "label": "TreeNode",
+        "kind": 6,
+        "importPath": "project-archive.binary-search-tree-solution-python.binary-search-tree-solution.leet_code_110",
+        "description": "project-archive.binary-search-tree-solution-python.binary-search-tree-solution.leet_code_110",
+        "peekOfCode": "class TreeNode(object):\n  def __init__(self, val=0, left=None, right=None):\n    self.val = val\n    self.left = left\n    self.right = right\ndef getHeight(node):\n  if node is None:\n    return -1\n  return 1 + max(getHeight(node.left), getHeight(node.right))\ndef isBalanced(root):",
+        "detail": "project-archive.binary-search-tree-solution-python.binary-search-tree-solution.leet_code_110",
+        "documentation": {}
+    },
+    {
+        "label": "getHeight",
+        "kind": 2,
+        "importPath": "project-archive.binary-search-tree-solution-python.binary-search-tree-solution.leet_code_110",
+        "description": "project-archive.binary-search-tree-solution-python.binary-search-tree-solution.leet_code_110",
+        "peekOfCode": "def getHeight(node):\n  if node is None:\n    return -1\n  return 1 + max(getHeight(node.left), getHeight(node.right))\ndef isBalanced(root):\n  \"\"\"\n  :type root: TreeNode\n  :rtype: bool\n  \"\"\"\n  if root is None:",
+        "detail": "project-archive.binary-search-tree-solution-python.binary-search-tree-solution.leet_code_110",
+        "documentation": {}
+    },
+    {
+        "label": "isBalanced",
+        "kind": 2,
+        "importPath": "project-archive.binary-search-tree-solution-python.binary-search-tree-solution.leet_code_110",
+        "description": "project-archive.binary-search-tree-solution-python.binary-search-tree-solution.leet_code_110",
+        "peekOfCode": "def isBalanced(root):\n  \"\"\"\n  :type root: TreeNode\n  :rtype: bool\n  \"\"\"\n  if root is None:\n    return True\n  isValidHeight = 1 >= abs(getHeight(root.left) - getHeight(root.right))\n  return isValidHeight and isBalanced(root.left) and isBalanced(root.right)\n# Tree: [3,9,20,null,null,15,7]",
+        "detail": "project-archive.binary-search-tree-solution-python.binary-search-tree-solution.leet_code_110",
+        "documentation": {}
+    },
+    {
+        "label": "node_3",
+        "kind": 5,
+        "importPath": "project-archive.binary-search-tree-solution-python.binary-search-tree-solution.leet_code_110",
+        "description": "project-archive.binary-search-tree-solution-python.binary-search-tree-solution.leet_code_110",
+        "peekOfCode": "node_3 = TreeNode(3)\nnode_20 = TreeNode(20)\nnode_3.left = TreeNode(9)\nnode_3.right = node_20\nnode_20.left = TreeNode(15)\nnode_20.right = TreeNode(7)\nprint(isBalanced(node_3))   # True\n# Tree: [1,2,2,3,3,null,null,4,4]\n#        1\n#       / \\",
+        "detail": "project-archive.binary-search-tree-solution-python.binary-search-tree-solution.leet_code_110",
+        "documentation": {}
+    },
+    {
+        "label": "node_20",
+        "kind": 5,
+        "importPath": "project-archive.binary-search-tree-solution-python.binary-search-tree-solution.leet_code_110",
+        "description": "project-archive.binary-search-tree-solution-python.binary-search-tree-solution.leet_code_110",
+        "peekOfCode": "node_20 = TreeNode(20)\nnode_3.left = TreeNode(9)\nnode_3.right = node_20\nnode_20.left = TreeNode(15)\nnode_20.right = TreeNode(7)\nprint(isBalanced(node_3))   # True\n# Tree: [1,2,2,3,3,null,null,4,4]\n#        1\n#       / \\\n#      2   2",
+        "detail": "project-archive.binary-search-tree-solution-python.binary-search-tree-solution.leet_code_110",
+        "documentation": {}
+    },
+    {
+        "label": "node_3.left",
+        "kind": 5,
+        "importPath": "project-archive.binary-search-tree-solution-python.binary-search-tree-solution.leet_code_110",
+        "description": "project-archive.binary-search-tree-solution-python.binary-search-tree-solution.leet_code_110",
+        "peekOfCode": "node_3.left = TreeNode(9)\nnode_3.right = node_20\nnode_20.left = TreeNode(15)\nnode_20.right = TreeNode(7)\nprint(isBalanced(node_3))   # True\n# Tree: [1,2,2,3,3,null,null,4,4]\n#        1\n#       / \\\n#      2   2\n#     / \\",
+        "detail": "project-archive.binary-search-tree-solution-python.binary-search-tree-solution.leet_code_110",
+        "documentation": {}
+    },
+    {
+        "label": "node_3.right",
+        "kind": 5,
+        "importPath": "project-archive.binary-search-tree-solution-python.binary-search-tree-solution.leet_code_110",
+        "description": "project-archive.binary-search-tree-solution-python.binary-search-tree-solution.leet_code_110",
+        "peekOfCode": "node_3.right = node_20\nnode_20.left = TreeNode(15)\nnode_20.right = TreeNode(7)\nprint(isBalanced(node_3))   # True\n# Tree: [1,2,2,3,3,null,null,4,4]\n#        1\n#       / \\\n#      2   2\n#     / \\\n#    3   3",
+        "detail": "project-archive.binary-search-tree-solution-python.binary-search-tree-solution.leet_code_110",
+        "documentation": {}
+    },
+    {
+        "label": "node_20.left",
+        "kind": 5,
+        "importPath": "project-archive.binary-search-tree-solution-python.binary-search-tree-solution.leet_code_110",
+        "description": "project-archive.binary-search-tree-solution-python.binary-search-tree-solution.leet_code_110",
+        "peekOfCode": "node_20.left = TreeNode(15)\nnode_20.right = TreeNode(7)\nprint(isBalanced(node_3))   # True\n# Tree: [1,2,2,3,3,null,null,4,4]\n#        1\n#       / \\\n#      2   2\n#     / \\\n#    3   3\n#   / \\",
+        "detail": "project-archive.binary-search-tree-solution-python.binary-search-tree-solution.leet_code_110",
+        "documentation": {}
+    },
+    {
+        "label": "node_20.right",
+        "kind": 5,
+        "importPath": "project-archive.binary-search-tree-solution-python.binary-search-tree-solution.leet_code_110",
+        "description": "project-archive.binary-search-tree-solution-python.binary-search-tree-solution.leet_code_110",
+        "peekOfCode": "node_20.right = TreeNode(7)\nprint(isBalanced(node_3))   # True\n# Tree: [1,2,2,3,3,null,null,4,4]\n#        1\n#       / \\\n#      2   2\n#     / \\\n#    3   3\n#   / \\\n#  4   4",
+        "detail": "project-archive.binary-search-tree-solution-python.binary-search-tree-solution.leet_code_110",
+        "documentation": {}
+    },
+    {
+        "label": "node_1",
+        "kind": 5,
+        "importPath": "project-archive.binary-search-tree-solution-python.binary-search-tree-solution.leet_code_110",
+        "description": "project-archive.binary-search-tree-solution-python.binary-search-tree-solution.leet_code_110",
+        "peekOfCode": "node_1 = TreeNode(1)\nnode_2a = TreeNode(2)\nnode_2b = TreeNode(2)\nnode_1.left = node_2a\nnode_1.right = node_2b\nnode_3a = TreeNode(3)\nnode_3b = TreeNode(3)\nnode_2a.left = node_3a\nnode_2a.right = node_3b\nnode_4a = TreeNode(4)",
+        "detail": "project-archive.binary-search-tree-solution-python.binary-search-tree-solution.leet_code_110",
+        "documentation": {}
+    },
+    {
+        "label": "node_2a",
+        "kind": 5,
+        "importPath": "project-archive.binary-search-tree-solution-python.binary-search-tree-solution.leet_code_110",
+        "description": "project-archive.binary-search-tree-solution-python.binary-search-tree-solution.leet_code_110",
+        "peekOfCode": "node_2a = TreeNode(2)\nnode_2b = TreeNode(2)\nnode_1.left = node_2a\nnode_1.right = node_2b\nnode_3a = TreeNode(3)\nnode_3b = TreeNode(3)\nnode_2a.left = node_3a\nnode_2a.right = node_3b\nnode_4a = TreeNode(4)\nnode_4b = TreeNode(4)",
+        "detail": "project-archive.binary-search-tree-solution-python.binary-search-tree-solution.leet_code_110",
+        "documentation": {}
+    },
+    {
+        "label": "node_2b",
+        "kind": 5,
+        "importPath": "project-archive.binary-search-tree-solution-python.binary-search-tree-solution.leet_code_110",
+        "description": "project-archive.binary-search-tree-solution-python.binary-search-tree-solution.leet_code_110",
+        "peekOfCode": "node_2b = TreeNode(2)\nnode_1.left = node_2a\nnode_1.right = node_2b\nnode_3a = TreeNode(3)\nnode_3b = TreeNode(3)\nnode_2a.left = node_3a\nnode_2a.right = node_3b\nnode_4a = TreeNode(4)\nnode_4b = TreeNode(4)\nnode_3a.left = node_4a",
+        "detail": "project-archive.binary-search-tree-solution-python.binary-search-tree-solution.leet_code_110",
+        "documentation": {}
+    },
+    {
+        "label": "node_1.left",
+        "kind": 5,
+        "importPath": "project-archive.binary-search-tree-solution-python.binary-search-tree-solution.leet_code_110",
+        "description": "project-archive.binary-search-tree-solution-python.binary-search-tree-solution.leet_code_110",
+        "peekOfCode": "node_1.left = node_2a\nnode_1.right = node_2b\nnode_3a = TreeNode(3)\nnode_3b = TreeNode(3)\nnode_2a.left = node_3a\nnode_2a.right = node_3b\nnode_4a = TreeNode(4)\nnode_4b = TreeNode(4)\nnode_3a.left = node_4a\nnode_3a.right = node_4b",
+        "detail": "project-archive.binary-search-tree-solution-python.binary-search-tree-solution.leet_code_110",
+        "documentation": {}
+    },
+    {
+        "label": "node_1.right",
+        "kind": 5,
+        "importPath": "project-archive.binary-search-tree-solution-python.binary-search-tree-solution.leet_code_110",
+        "description": "project-archive.binary-search-tree-solution-python.binary-search-tree-solution.leet_code_110",
+        "peekOfCode": "node_1.right = node_2b\nnode_3a = TreeNode(3)\nnode_3b = TreeNode(3)\nnode_2a.left = node_3a\nnode_2a.right = node_3b\nnode_4a = TreeNode(4)\nnode_4b = TreeNode(4)\nnode_3a.left = node_4a\nnode_3a.right = node_4b\nprint(isBalanced(node_1))   # False",
+        "detail": "project-archive.binary-search-tree-solution-python.binary-search-tree-solution.leet_code_110",
+        "documentation": {}
+    },
+    {
+        "label": "node_3a",
+        "kind": 5,
+        "importPath": "project-archive.binary-search-tree-solution-python.binary-search-tree-solution.leet_code_110",
+        "description": "project-archive.binary-search-tree-solution-python.binary-search-tree-solution.leet_code_110",
+        "peekOfCode": "node_3a = TreeNode(3)\nnode_3b = TreeNode(3)\nnode_2a.left = node_3a\nnode_2a.right = node_3b\nnode_4a = TreeNode(4)\nnode_4b = TreeNode(4)\nnode_3a.left = node_4a\nnode_3a.right = node_4b\nprint(isBalanced(node_1))   # False",
+        "detail": "project-archive.binary-search-tree-solution-python.binary-search-tree-solution.leet_code_110",
+        "documentation": {}
+    },
+    {
+        "label": "node_3b",
+        "kind": 5,
+        "importPath": "project-archive.binary-search-tree-solution-python.binary-search-tree-solution.leet_code_110",
+        "description": "project-archive.binary-search-tree-solution-python.binary-search-tree-solution.leet_code_110",
+        "peekOfCode": "node_3b = TreeNode(3)\nnode_2a.left = node_3a\nnode_2a.right = node_3b\nnode_4a = TreeNode(4)\nnode_4b = TreeNode(4)\nnode_3a.left = node_4a\nnode_3a.right = node_4b\nprint(isBalanced(node_1))   # False",
+        "detail": "project-archive.binary-search-tree-solution-python.binary-search-tree-solution.leet_code_110",
+        "documentation": {}
+    },
+    {
+        "label": "node_2a.left",
+        "kind": 5,
+        "importPath": "project-archive.binary-search-tree-solution-python.binary-search-tree-solution.leet_code_110",
+        "description": "project-archive.binary-search-tree-solution-python.binary-search-tree-solution.leet_code_110",
+        "peekOfCode": "node_2a.left = node_3a\nnode_2a.right = node_3b\nnode_4a = TreeNode(4)\nnode_4b = TreeNode(4)\nnode_3a.left = node_4a\nnode_3a.right = node_4b\nprint(isBalanced(node_1))   # False",
+        "detail": "project-archive.binary-search-tree-solution-python.binary-search-tree-solution.leet_code_110",
+        "documentation": {}
+    },
+    {
+        "label": "node_2a.right",
+        "kind": 5,
+        "importPath": "project-archive.binary-search-tree-solution-python.binary-search-tree-solution.leet_code_110",
+        "description": "project-archive.binary-search-tree-solution-python.binary-search-tree-solution.leet_code_110",
+        "peekOfCode": "node_2a.right = node_3b\nnode_4a = TreeNode(4)\nnode_4b = TreeNode(4)\nnode_3a.left = node_4a\nnode_3a.right = node_4b\nprint(isBalanced(node_1))   # False",
+        "detail": "project-archive.binary-search-tree-solution-python.binary-search-tree-solution.leet_code_110",
+        "documentation": {}
+    },
+    {
+        "label": "node_4a",
+        "kind": 5,
+        "importPath": "project-archive.binary-search-tree-solution-python.binary-search-tree-solution.leet_code_110",
+        "description": "project-archive.binary-search-tree-solution-python.binary-search-tree-solution.leet_code_110",
+        "peekOfCode": "node_4a = TreeNode(4)\nnode_4b = TreeNode(4)\nnode_3a.left = node_4a\nnode_3a.right = node_4b\nprint(isBalanced(node_1))   # False",
+        "detail": "project-archive.binary-search-tree-solution-python.binary-search-tree-solution.leet_code_110",
+        "documentation": {}
+    },
+    {
+        "label": "node_4b",
+        "kind": 5,
+        "importPath": "project-archive.binary-search-tree-solution-python.binary-search-tree-solution.leet_code_110",
+        "description": "project-archive.binary-search-tree-solution-python.binary-search-tree-solution.leet_code_110",
+        "peekOfCode": "node_4b = TreeNode(4)\nnode_3a.left = node_4a\nnode_3a.right = node_4b\nprint(isBalanced(node_1))   # False",
+        "detail": "project-archive.binary-search-tree-solution-python.binary-search-tree-solution.leet_code_110",
+        "documentation": {}
+    },
+    {
+        "label": "node_3a.left",
+        "kind": 5,
+        "importPath": "project-archive.binary-search-tree-solution-python.binary-search-tree-solution.leet_code_110",
+        "description": "project-archive.binary-search-tree-solution-python.binary-search-tree-solution.leet_code_110",
+        "peekOfCode": "node_3a.left = node_4a\nnode_3a.right = node_4b\nprint(isBalanced(node_1))   # False",
+        "detail": "project-archive.binary-search-tree-solution-python.binary-search-tree-solution.leet_code_110",
+        "documentation": {}
+    },
+    {
+        "label": "node_3a.right",
+        "kind": 5,
+        "importPath": "project-archive.binary-search-tree-solution-python.binary-search-tree-solution.leet_code_110",
+        "description": "project-archive.binary-search-tree-solution-python.binary-search-tree-solution.leet_code_110",
+        "peekOfCode": "node_3a.right = node_4b\nprint(isBalanced(node_1))   # False",
+        "detail": "project-archive.binary-search-tree-solution-python.binary-search-tree-solution.leet_code_110",
+        "documentation": {}
+    },
+    {
+        "label": "buildTree",
+        "kind": 2,
+        "importPath": "project-archive.binary-tree-solution.binary-tree-solution.leet_code_105",
+        "description": "project-archive.binary-tree-solution.binary-tree-solution.leet_code_105",
+        "peekOfCode": "def buildTree(preorder, inorder):\n  \"\"\"\n  :type preorder: List[int]\n  :type inorder: List[int]\n  :rtype: TreeNode\n  \"\"\"\n  if not preorder or not inorder:\n    return None\n  root_value = preorder.pop(0)\n  root = TreeNode(root_value)",
+        "detail": "project-archive.binary-tree-solution.binary-tree-solution.leet_code_105",
+        "documentation": {}
+    },
+    {
+        "label": "preorder_tree",
+        "kind": 5,
+        "importPath": "project-archive.binary-tree-solution.binary-tree-solution.leet_code_105",
+        "description": "project-archive.binary-tree-solution.binary-tree-solution.leet_code_105",
+        "peekOfCode": "preorder_tree = [3,9,20,15,7]\ninorder_tree = [9,3,15,20,7]\nroot_node = buildTree(preorder_tree, inorder_tree)\nprint(root_node.value)              # 3\nprint(root_node.left.value)         # 9\nprint(root_node.right.value)        # 20\nprint(root_node.right.left.value)   # 15\nprint(root_node.right.right.value)  # 7\n# Returns the `root` node of the following binary tree:\n#   3",
+        "detail": "project-archive.binary-tree-solution.binary-tree-solution.leet_code_105",
+        "documentation": {}
+    },
+    {
+        "label": "inorder_tree",
+        "kind": 5,
+        "importPath": "project-archive.binary-tree-solution.binary-tree-solution.leet_code_105",
+        "description": "project-archive.binary-tree-solution.binary-tree-solution.leet_code_105",
+        "peekOfCode": "inorder_tree = [9,3,15,20,7]\nroot_node = buildTree(preorder_tree, inorder_tree)\nprint(root_node.value)              # 3\nprint(root_node.left.value)         # 9\nprint(root_node.right.value)        # 20\nprint(root_node.right.left.value)   # 15\nprint(root_node.right.right.value)  # 7\n# Returns the `root` node of the following binary tree:\n#   3\n#  / \\",
+        "detail": "project-archive.binary-tree-solution.binary-tree-solution.leet_code_105",
+        "documentation": {}
+    },
+    {
+        "label": "root_node",
+        "kind": 5,
+        "importPath": "project-archive.binary-tree-solution.binary-tree-solution.leet_code_105",
+        "description": "project-archive.binary-tree-solution.binary-tree-solution.leet_code_105",
+        "peekOfCode": "root_node = buildTree(preorder_tree, inorder_tree)\nprint(root_node.value)              # 3\nprint(root_node.left.value)         # 9\nprint(root_node.right.value)        # 20\nprint(root_node.right.left.value)   # 15\nprint(root_node.right.right.value)  # 7\n# Returns the `root` node of the following binary tree:\n#   3\n#  / \\\n# 9  20",
+        "detail": "project-archive.binary-tree-solution.binary-tree-solution.leet_code_105",
+        "documentation": {}
+    },
+    {
+        "label": "TreeNode",
+        "kind": 6,
+        "importPath": "project-archive.binary-tree-solution.binary-tree-solution.tree_node",
+        "description": "project-archive.binary-tree-solution.binary-tree-solution.tree_node",
+        "peekOfCode": "class TreeNode:\n  def __init__(self, value):\n    self.value = value\n    self.left = None\n    self.right = None\nnode_a = TreeNode('a')\n# print(node_a.value)         # 'a'\n# print(node_a.right)         # None\n# print(node_a.left)          # None\nnode_b = TreeNode('b')",
+        "detail": "project-archive.binary-tree-solution.binary-tree-solution.tree_node",
+        "documentation": {}
+    },
+    {
+        "label": "node_a",
+        "kind": 5,
+        "importPath": "project-archive.binary-tree-solution.binary-tree-solution.tree_node",
+        "description": "project-archive.binary-tree-solution.binary-tree-solution.tree_node",
+        "peekOfCode": "node_a = TreeNode('a')\n# print(node_a.value)         # 'a'\n# print(node_a.right)         # None\n# print(node_a.left)          # None\nnode_b = TreeNode('b')\nnode_a.left = node_b\n# print(node_a.left.value)    # 'b'\n# print(node_a.right)         # None",
+        "detail": "project-archive.binary-tree-solution.binary-tree-solution.tree_node",
+        "documentation": {}
+    },
+    {
+        "label": "node_b",
+        "kind": 5,
+        "importPath": "project-archive.binary-tree-solution.binary-tree-solution.tree_node",
+        "description": "project-archive.binary-tree-solution.binary-tree-solution.tree_node",
+        "peekOfCode": "node_b = TreeNode('b')\nnode_a.left = node_b\n# print(node_a.left.value)    # 'b'\n# print(node_a.right)         # None",
+        "detail": "project-archive.binary-tree-solution.binary-tree-solution.tree_node",
+        "documentation": {}
+    },
+    {
+        "label": "node_a.left",
+        "kind": 5,
+        "importPath": "project-archive.binary-tree-solution.binary-tree-solution.tree_node",
+        "description": "project-archive.binary-tree-solution.binary-tree-solution.tree_node",
+        "peekOfCode": "node_a.left = node_b\n# print(node_a.left.value)    # 'b'\n# print(node_a.right)         # None",
+        "detail": "project-archive.binary-tree-solution.binary-tree-solution.tree_node",
+        "documentation": {}
+    },
+    {
+        "label": "in_order_traversal",
+        "kind": 2,
+        "importPath": "project-archive.binary-tree-solution.binary-tree-solution.tree_order",
+        "description": "project-archive.binary-tree-solution.binary-tree-solution.tree_order",
+        "peekOfCode": "def in_order_traversal(root=None):\n  \"\"\"\n  1. Define in_order_traversal function.\n  2. If the root is null, return an empty list.\n  3. Get the list of values for visiting the left node.\n  4. Get the list of values for visiting the right node.\n  5. Return the left list values concatenated with the root value, concatenated\n     with the right list values.\n  \"\"\"\n  if root is None:",
+        "detail": "project-archive.binary-tree-solution.binary-tree-solution.tree_order",
+        "documentation": {}
+    },
+    {
+        "label": "post_order_traversal",
+        "kind": 2,
+        "importPath": "project-archive.binary-tree-solution.binary-tree-solution.tree_order",
+        "description": "project-archive.binary-tree-solution.binary-tree-solution.tree_order",
+        "peekOfCode": "def post_order_traversal(root=None):\n  \"\"\"\n  1. Define post_order_traversal function.\n  2. If the root is null, return an empty list.\n  3. Get the list of values for visiting the left node.\n  4. Get the list of values for visiting the right node.\n  5. Return the left list values concatenated with the right list values,\n     concatenated with the root value.\n  \"\"\"\n  if root is None:",
+        "detail": "project-archive.binary-tree-solution.binary-tree-solution.tree_order",
+        "documentation": {}
+    },
+    {
+        "label": "root",
+        "kind": 5,
+        "importPath": "project-archive.binary-tree-solution.binary-tree-solution.tree_order",
+        "description": "project-archive.binary-tree-solution.binary-tree-solution.tree_order",
+        "peekOfCode": "root = TreeNode('a')\nb = TreeNode('b')\nc = TreeNode('c')\nd = TreeNode('d')\ne = TreeNode('e')\nf = TreeNode('f')\nroot.left = b\nroot.right = c\nb.left = d\nb.right = e",
+        "detail": "project-archive.binary-tree-solution.binary-tree-solution.tree_order",
+        "documentation": {}
+    },
+    {
+        "label": "b",
+        "kind": 5,
+        "importPath": "project-archive.binary-tree-solution.binary-tree-solution.tree_order",
+        "description": "project-archive.binary-tree-solution.binary-tree-solution.tree_order",
+        "peekOfCode": "b = TreeNode('b')\nc = TreeNode('c')\nd = TreeNode('d')\ne = TreeNode('e')\nf = TreeNode('f')\nroot.left = b\nroot.right = c\nb.left = d\nb.right = e\nc.right = f",
+        "detail": "project-archive.binary-tree-solution.binary-tree-solution.tree_order",
+        "documentation": {}
+    },
+    {
+        "label": "c",
+        "kind": 5,
+        "importPath": "project-archive.binary-tree-solution.binary-tree-solution.tree_order",
+        "description": "project-archive.binary-tree-solution.binary-tree-solution.tree_order",
+        "peekOfCode": "c = TreeNode('c')\nd = TreeNode('d')\ne = TreeNode('e')\nf = TreeNode('f')\nroot.left = b\nroot.right = c\nb.left = d\nb.right = e\nc.right = f\nprint(in_order_traversal())         # []",
+        "detail": "project-archive.binary-tree-solution.binary-tree-solution.tree_order",
+        "documentation": {}
+    },
+    {
+        "label": "d",
+        "kind": 5,
+        "importPath": "project-archive.binary-tree-solution.binary-tree-solution.tree_order",
+        "description": "project-archive.binary-tree-solution.binary-tree-solution.tree_order",
+        "peekOfCode": "d = TreeNode('d')\ne = TreeNode('e')\nf = TreeNode('f')\nroot.left = b\nroot.right = c\nb.left = d\nb.right = e\nc.right = f\nprint(in_order_traversal())         # []\nprint(in_order_traversal(root))     # ['d', 'b', 'e', 'a', 'c', 'f']",
+        "detail": "project-archive.binary-tree-solution.binary-tree-solution.tree_order",
+        "documentation": {}
+    },
+    {
+        "label": "e",
+        "kind": 5,
+        "importPath": "project-archive.binary-tree-solution.binary-tree-solution.tree_order",
+        "description": "project-archive.binary-tree-solution.binary-tree-solution.tree_order",
+        "peekOfCode": "e = TreeNode('e')\nf = TreeNode('f')\nroot.left = b\nroot.right = c\nb.left = d\nb.right = e\nc.right = f\nprint(in_order_traversal())         # []\nprint(in_order_traversal(root))     # ['d', 'b', 'e', 'a', 'c', 'f']\nprint(post_order_traversal())       # []",
+        "detail": "project-archive.binary-tree-solution.binary-tree-solution.tree_order",
+        "documentation": {}
+    },
+    {
+        "label": "f",
+        "kind": 5,
+        "importPath": "project-archive.binary-tree-solution.binary-tree-solution.tree_order",
+        "description": "project-archive.binary-tree-solution.binary-tree-solution.tree_order",
+        "peekOfCode": "f = TreeNode('f')\nroot.left = b\nroot.right = c\nb.left = d\nb.right = e\nc.right = f\nprint(in_order_traversal())         # []\nprint(in_order_traversal(root))     # ['d', 'b', 'e', 'a', 'c', 'f']\nprint(post_order_traversal())       # []\nprint(post_order_traversal(root))   # ['d', 'e', 'b', 'f', 'c', 'a']",
+        "detail": "project-archive.binary-tree-solution.binary-tree-solution.tree_order",
+        "documentation": {}
+    },
+    {
+        "label": "root.left",
+        "kind": 5,
+        "importPath": "project-archive.binary-tree-solution.binary-tree-solution.tree_order",
+        "description": "project-archive.binary-tree-solution.binary-tree-solution.tree_order",
+        "peekOfCode": "root.left = b\nroot.right = c\nb.left = d\nb.right = e\nc.right = f\nprint(in_order_traversal())         # []\nprint(in_order_traversal(root))     # ['d', 'b', 'e', 'a', 'c', 'f']\nprint(post_order_traversal())       # []\nprint(post_order_traversal(root))   # ['d', 'e', 'b', 'f', 'c', 'a']",
+        "detail": "project-archive.binary-tree-solution.binary-tree-solution.tree_order",
+        "documentation": {}
+    },
+    {
+        "label": "root.right",
+        "kind": 5,
+        "importPath": "project-archive.binary-tree-solution.binary-tree-solution.tree_order",
+        "description": "project-archive.binary-tree-solution.binary-tree-solution.tree_order",
+        "peekOfCode": "root.right = c\nb.left = d\nb.right = e\nc.right = f\nprint(in_order_traversal())         # []\nprint(in_order_traversal(root))     # ['d', 'b', 'e', 'a', 'c', 'f']\nprint(post_order_traversal())       # []\nprint(post_order_traversal(root))   # ['d', 'e', 'b', 'f', 'c', 'a']",
+        "detail": "project-archive.binary-tree-solution.binary-tree-solution.tree_order",
+        "documentation": {}
+    },
+    {
+        "label": "b.left",
+        "kind": 5,
+        "importPath": "project-archive.binary-tree-solution.binary-tree-solution.tree_order",
+        "description": "project-archive.binary-tree-solution.binary-tree-solution.tree_order",
+        "peekOfCode": "b.left = d\nb.right = e\nc.right = f\nprint(in_order_traversal())         # []\nprint(in_order_traversal(root))     # ['d', 'b', 'e', 'a', 'c', 'f']\nprint(post_order_traversal())       # []\nprint(post_order_traversal(root))   # ['d', 'e', 'b', 'f', 'c', 'a']",
+        "detail": "project-archive.binary-tree-solution.binary-tree-solution.tree_order",
+        "documentation": {}
+    },
+    {
+        "label": "b.right",
+        "kind": 5,
+        "importPath": "project-archive.binary-tree-solution.binary-tree-solution.tree_order",
+        "description": "project-archive.binary-tree-solution.binary-tree-solution.tree_order",
+        "peekOfCode": "b.right = e\nc.right = f\nprint(in_order_traversal())         # []\nprint(in_order_traversal(root))     # ['d', 'b', 'e', 'a', 'c', 'f']\nprint(post_order_traversal())       # []\nprint(post_order_traversal(root))   # ['d', 'e', 'b', 'f', 'c', 'a']",
+        "detail": "project-archive.binary-tree-solution.binary-tree-solution.tree_order",
+        "documentation": {}
+    },
+    {
+        "label": "c.right",
+        "kind": 5,
+        "importPath": "project-archive.binary-tree-solution.binary-tree-solution.tree_order",
+        "description": "project-archive.binary-tree-solution.binary-tree-solution.tree_order",
+        "peekOfCode": "c.right = f\nprint(in_order_traversal())         # []\nprint(in_order_traversal(root))     # ['d', 'b', 'e', 'a', 'c', 'f']\nprint(post_order_traversal())       # []\nprint(post_order_traversal(root))   # ['d', 'e', 'b', 'f', 'c', 'a']",
+        "detail": "project-archive.binary-tree-solution.binary-tree-solution.tree_order",
+        "documentation": {}
+    },
+    {
+        "label": "buildTree",
+        "kind": 2,
+        "importPath": "project-archive.binary-tree-solution.leet_code_105",
+        "description": "project-archive.binary-tree-solution.leet_code_105",
+        "peekOfCode": "def buildTree(preorder, inorder):\n  \"\"\"\n  :type preorder: List[int]\n  :type inorder: List[int]\n  :rtype: TreeNode\n  \"\"\"\n  if not preorder or not inorder:\n    return None\n  root_value = preorder.pop(0)\n  root = TreeNode(root_value)",
+        "detail": "project-archive.binary-tree-solution.leet_code_105",
+        "documentation": {}
+    },
+    {
+        "label": "preorder_tree",
+        "kind": 5,
+        "importPath": "project-archive.binary-tree-solution.leet_code_105",
+        "description": "project-archive.binary-tree-solution.leet_code_105",
+        "peekOfCode": "preorder_tree = [3,9,20,15,7]\ninorder_tree = [9,3,15,20,7]\nroot_node = buildTree(preorder_tree, inorder_tree)\nprint(root_node.value)              # 3\nprint(root_node.left.value)         # 9\nprint(root_node.right.value)        # 20\nprint(root_node.right.left.value)   # 15\nprint(root_node.right.right.value)  # 7\n# Returns the `root` node of the following binary tree:\n#   3",
+        "detail": "project-archive.binary-tree-solution.leet_code_105",
+        "documentation": {}
+    },
+    {
+        "label": "inorder_tree",
+        "kind": 5,
+        "importPath": "project-archive.binary-tree-solution.leet_code_105",
+        "description": "project-archive.binary-tree-solution.leet_code_105",
+        "peekOfCode": "inorder_tree = [9,3,15,20,7]\nroot_node = buildTree(preorder_tree, inorder_tree)\nprint(root_node.value)              # 3\nprint(root_node.left.value)         # 9\nprint(root_node.right.value)        # 20\nprint(root_node.right.left.value)   # 15\nprint(root_node.right.right.value)  # 7\n# Returns the `root` node of the following binary tree:\n#   3\n#  / \\",
+        "detail": "project-archive.binary-tree-solution.leet_code_105",
+        "documentation": {}
+    },
+    {
+        "label": "root_node",
+        "kind": 5,
+        "importPath": "project-archive.binary-tree-solution.leet_code_105",
+        "description": "project-archive.binary-tree-solution.leet_code_105",
+        "peekOfCode": "root_node = buildTree(preorder_tree, inorder_tree)\nprint(root_node.value)              # 3\nprint(root_node.left.value)         # 9\nprint(root_node.right.value)        # 20\nprint(root_node.right.left.value)   # 15\nprint(root_node.right.right.value)  # 7\n# Returns the `root` node of the following binary tree:\n#   3\n#  / \\\n# 9  20",
+        "detail": "project-archive.binary-tree-solution.leet_code_105",
+        "documentation": {}
+    },
+    {
+        "label": "TreeNode",
+        "kind": 6,
+        "importPath": "project-archive.binary-tree-solution.tree_node",
+        "description": "project-archive.binary-tree-solution.tree_node",
+        "peekOfCode": "class TreeNode:\n  def __init__(self, value):\n    self.value = value\n    self.left = None\n    self.right = None\nnode_a = TreeNode('a')\n# print(node_a.value)         # 'a'\n# print(node_a.right)         # None\n# print(node_a.left)          # None\nnode_b = TreeNode('b')",
+        "detail": "project-archive.binary-tree-solution.tree_node",
+        "documentation": {}
+    },
+    {
+        "label": "node_a",
+        "kind": 5,
+        "importPath": "project-archive.binary-tree-solution.tree_node",
+        "description": "project-archive.binary-tree-solution.tree_node",
+        "peekOfCode": "node_a = TreeNode('a')\n# print(node_a.value)         # 'a'\n# print(node_a.right)         # None\n# print(node_a.left)          # None\nnode_b = TreeNode('b')\nnode_a.left = node_b\n# print(node_a.left.value)    # 'b'\n# print(node_a.right)         # None",
+        "detail": "project-archive.binary-tree-solution.tree_node",
+        "documentation": {}
+    },
+    {
+        "label": "node_b",
+        "kind": 5,
+        "importPath": "project-archive.binary-tree-solution.tree_node",
+        "description": "project-archive.binary-tree-solution.tree_node",
+        "peekOfCode": "node_b = TreeNode('b')\nnode_a.left = node_b\n# print(node_a.left.value)    # 'b'\n# print(node_a.right)         # None",
+        "detail": "project-archive.binary-tree-solution.tree_node",
+        "documentation": {}
+    },
+    {
+        "label": "node_a.left",
+        "kind": 5,
+        "importPath": "project-archive.binary-tree-solution.tree_node",
+        "description": "project-archive.binary-tree-solution.tree_node",
+        "peekOfCode": "node_a.left = node_b\n# print(node_a.left.value)    # 'b'\n# print(node_a.right)         # None",
+        "detail": "project-archive.binary-tree-solution.tree_node",
+        "documentation": {}
+    },
+    {
+        "label": "in_order_traversal",
+        "kind": 2,
+        "importPath": "project-archive.binary-tree-solution.tree_order",
+        "description": "project-archive.binary-tree-solution.tree_order",
+        "peekOfCode": "def in_order_traversal(root=None):\n  \"\"\"\n  1. Define in_order_traversal function.\n  2. If the root is null, return an empty list.\n  3. Get the list of values for visiting the left node.\n  4. Get the list of values for visiting the right node.\n  5. Return the left list values concatenated with the root value, concatenated\n     with the right list values.\n  \"\"\"\n  if root is None:",
+        "detail": "project-archive.binary-tree-solution.tree_order",
+        "documentation": {}
+    },
+    {
+        "label": "post_order_traversal",
+        "kind": 2,
+        "importPath": "project-archive.binary-tree-solution.tree_order",
+        "description": "project-archive.binary-tree-solution.tree_order",
+        "peekOfCode": "def post_order_traversal(root=None):\n  \"\"\"\n  1. Define post_order_traversal function.\n  2. If the root is null, return an empty list.\n  3. Get the list of values for visiting the left node.\n  4. Get the list of values for visiting the right node.\n  5. Return the left list values concatenated with the right list values,\n     concatenated with the root value.\n  \"\"\"\n  if root is None:",
+        "detail": "project-archive.binary-tree-solution.tree_order",
+        "documentation": {}
+    },
+    {
+        "label": "root",
+        "kind": 5,
+        "importPath": "project-archive.binary-tree-solution.tree_order",
+        "description": "project-archive.binary-tree-solution.tree_order",
+        "peekOfCode": "root = TreeNode('a')\nb = TreeNode('b')\nc = TreeNode('c')\nd = TreeNode('d')\ne = TreeNode('e')\nf = TreeNode('f')\nroot.left = b\nroot.right = c\nb.left = d\nb.right = e",
+        "detail": "project-archive.binary-tree-solution.tree_order",
+        "documentation": {}
+    },
+    {
+        "label": "b",
+        "kind": 5,
+        "importPath": "project-archive.binary-tree-solution.tree_order",
+        "description": "project-archive.binary-tree-solution.tree_order",
+        "peekOfCode": "b = TreeNode('b')\nc = TreeNode('c')\nd = TreeNode('d')\ne = TreeNode('e')\nf = TreeNode('f')\nroot.left = b\nroot.right = c\nb.left = d\nb.right = e\nc.right = f",
+        "detail": "project-archive.binary-tree-solution.tree_order",
+        "documentation": {}
+    },
+    {
+        "label": "c",
+        "kind": 5,
+        "importPath": "project-archive.binary-tree-solution.tree_order",
+        "description": "project-archive.binary-tree-solution.tree_order",
+        "peekOfCode": "c = TreeNode('c')\nd = TreeNode('d')\ne = TreeNode('e')\nf = TreeNode('f')\nroot.left = b\nroot.right = c\nb.left = d\nb.right = e\nc.right = f\nprint(in_order_traversal())         # []",
+        "detail": "project-archive.binary-tree-solution.tree_order",
+        "documentation": {}
+    },
+    {
+        "label": "d",
+        "kind": 5,
+        "importPath": "project-archive.binary-tree-solution.tree_order",
+        "description": "project-archive.binary-tree-solution.tree_order",
+        "peekOfCode": "d = TreeNode('d')\ne = TreeNode('e')\nf = TreeNode('f')\nroot.left = b\nroot.right = c\nb.left = d\nb.right = e\nc.right = f\nprint(in_order_traversal())         # []\nprint(in_order_traversal(root))     # ['d', 'b', 'e', 'a', 'c', 'f']",
+        "detail": "project-archive.binary-tree-solution.tree_order",
+        "documentation": {}
+    },
+    {
+        "label": "e",
+        "kind": 5,
+        "importPath": "project-archive.binary-tree-solution.tree_order",
+        "description": "project-archive.binary-tree-solution.tree_order",
+        "peekOfCode": "e = TreeNode('e')\nf = TreeNode('f')\nroot.left = b\nroot.right = c\nb.left = d\nb.right = e\nc.right = f\nprint(in_order_traversal())         # []\nprint(in_order_traversal(root))     # ['d', 'b', 'e', 'a', 'c', 'f']\nprint(post_order_traversal())       # []",
+        "detail": "project-archive.binary-tree-solution.tree_order",
+        "documentation": {}
+    },
+    {
+        "label": "f",
+        "kind": 5,
+        "importPath": "project-archive.binary-tree-solution.tree_order",
+        "description": "project-archive.binary-tree-solution.tree_order",
+        "peekOfCode": "f = TreeNode('f')\nroot.left = b\nroot.right = c\nb.left = d\nb.right = e\nc.right = f\nprint(in_order_traversal())         # []\nprint(in_order_traversal(root))     # ['d', 'b', 'e', 'a', 'c', 'f']\nprint(post_order_traversal())       # []\nprint(post_order_traversal(root))   # ['d', 'e', 'b', 'f', 'c', 'a']",
+        "detail": "project-archive.binary-tree-solution.tree_order",
+        "documentation": {}
+    },
+    {
+        "label": "root.left",
+        "kind": 5,
+        "importPath": "project-archive.binary-tree-solution.tree_order",
+        "description": "project-archive.binary-tree-solution.tree_order",
+        "peekOfCode": "root.left = b\nroot.right = c\nb.left = d\nb.right = e\nc.right = f\nprint(in_order_traversal())         # []\nprint(in_order_traversal(root))     # ['d', 'b', 'e', 'a', 'c', 'f']\nprint(post_order_traversal())       # []\nprint(post_order_traversal(root))   # ['d', 'e', 'b', 'f', 'c', 'a']",
+        "detail": "project-archive.binary-tree-solution.tree_order",
+        "documentation": {}
+    },
+    {
+        "label": "root.right",
+        "kind": 5,
+        "importPath": "project-archive.binary-tree-solution.tree_order",
+        "description": "project-archive.binary-tree-solution.tree_order",
+        "peekOfCode": "root.right = c\nb.left = d\nb.right = e\nc.right = f\nprint(in_order_traversal())         # []\nprint(in_order_traversal(root))     # ['d', 'b', 'e', 'a', 'c', 'f']\nprint(post_order_traversal())       # []\nprint(post_order_traversal(root))   # ['d', 'e', 'b', 'f', 'c', 'a']",
+        "detail": "project-archive.binary-tree-solution.tree_order",
+        "documentation": {}
+    },
+    {
+        "label": "b.left",
+        "kind": 5,
+        "importPath": "project-archive.binary-tree-solution.tree_order",
+        "description": "project-archive.binary-tree-solution.tree_order",
+        "peekOfCode": "b.left = d\nb.right = e\nc.right = f\nprint(in_order_traversal())         # []\nprint(in_order_traversal(root))     # ['d', 'b', 'e', 'a', 'c', 'f']\nprint(post_order_traversal())       # []\nprint(post_order_traversal(root))   # ['d', 'e', 'b', 'f', 'c', 'a']",
+        "detail": "project-archive.binary-tree-solution.tree_order",
+        "documentation": {}
+    },
+    {
+        "label": "b.right",
+        "kind": 5,
+        "importPath": "project-archive.binary-tree-solution.tree_order",
+        "description": "project-archive.binary-tree-solution.tree_order",
+        "peekOfCode": "b.right = e\nc.right = f\nprint(in_order_traversal())         # []\nprint(in_order_traversal(root))     # ['d', 'b', 'e', 'a', 'c', 'f']\nprint(post_order_traversal())       # []\nprint(post_order_traversal(root))   # ['d', 'e', 'b', 'f', 'c', 'a']",
+        "detail": "project-archive.binary-tree-solution.tree_order",
+        "documentation": {}
+    },
+    {
+        "label": "c.right",
+        "kind": 5,
+        "importPath": "project-archive.binary-tree-solution.tree_order",
+        "description": "project-archive.binary-tree-solution.tree_order",
+        "peekOfCode": "c.right = f\nprint(in_order_traversal())         # []\nprint(in_order_traversal(root))     # ['d', 'b', 'e', 'a', 'c', 'f']\nprint(post_order_traversal())       # []\nprint(post_order_traversal(root))   # ['d', 'e', 'b', 'f', 'c', 'a']",
+        "detail": "project-archive.binary-tree-solution.tree_order",
+        "documentation": {}
+    },
+    {
+        "label": "Node",
+        "kind": 6,
+        "importPath": "project-archive.linked-list-solution.linked-list-solution.linked_list",
+        "description": "project-archive.linked-list-solution.linked-list-solution.linked_list",
+        "peekOfCode": "class Node:\n  def __init__(self, value):\n    self._value = value\n    self._next = None\n# TODO: Implement a Singly Linked List class here\nclass LinkedList:\n  def __init__(self):\n    self._head = None\n    self._tail = None\n    self._length = 0",
+        "detail": "project-archive.linked-list-solution.linked-list-solution.linked_list",
+        "documentation": {}
+    },
+    {
+        "label": "LinkedList",
+        "kind": 6,
+        "importPath": "project-archive.linked-list-solution.linked-list-solution.linked_list",
+        "description": "project-archive.linked-list-solution.linked-list-solution.linked_list",
+        "peekOfCode": "class LinkedList:\n  def __init__(self):\n    self._head = None\n    self._tail = None\n    self._length = 0\n  # TODO: Implement the get_node method here\n  def get_node(self, position):\n    if position < 0 or position >= self._length:\n      return\n    counter = 0",
+        "detail": "project-archive.linked-list-solution.linked-list-solution.linked_list",
+        "documentation": {}
+    },
+    {
+        "label": "node",
+        "kind": 5,
+        "importPath": "project-archive.linked-list-solution.linked-list-solution.linked_list",
+        "description": "project-archive.linked-list-solution.linked-list-solution.linked_list",
+        "peekOfCode": "node = Node('hello')\nprint(node)                                     # <__main__.Node object at ...>\nprint(node._value)                              # hello\nlinked_list = LinkedList()\nprint(linked_list)                              # <__main__.LinkedList object at ...>\n# # 2. Test getting a node by its position\n# print(linked_list.get_node(0))                # None\n# # 3. Test adding a node to the list's tail\n# linked_list.add_to_tail('new tail node')\n# print(linked_list.get_node(0))                # <__main__.Node object at ...>",
+        "detail": "project-archive.linked-list-solution.linked-list-solution.linked_list",
+        "documentation": {}
+    },
+    {
+        "label": "linked_list",
+        "kind": 5,
+        "importPath": "project-archive.linked-list-solution.linked-list-solution.linked_list",
+        "description": "project-archive.linked-list-solution.linked-list-solution.linked_list",
+        "peekOfCode": "linked_list = LinkedList()\nprint(linked_list)                              # <__main__.LinkedList object at ...>\n# # 2. Test getting a node by its position\n# print(linked_list.get_node(0))                # None\n# # 3. Test adding a node to the list's tail\n# linked_list.add_to_tail('new tail node')\n# print(linked_list.get_node(0))                # <__main__.Node object at ...>\n# print(linked_list.get_node(0)._value)         # `new tail node`\n# # 4. Test adding a node to list's head\n# linked_list.add_to_head('new head node')",
+        "detail": "project-archive.linked-list-solution.linked-list-solution.linked_list",
+        "documentation": {}
+    },
+    {
+        "label": "Node",
+        "kind": 6,
+        "importPath": "project-archive.linked-list-solution.linked_list",
+        "description": "project-archive.linked-list-solution.linked_list",
+        "peekOfCode": "class Node:\n  def __init__(self, value):\n    self._value = value\n    self._next = None\n# TODO: Implement a Singly Linked List class here\nclass LinkedList:\n  def __init__(self):\n    self._head = None\n    self._tail = None\n    self._length = 0",
+        "detail": "project-archive.linked-list-solution.linked_list",
+        "documentation": {}
+    },
+    {
+        "label": "LinkedList",
+        "kind": 6,
+        "importPath": "project-archive.linked-list-solution.linked_list",
+        "description": "project-archive.linked-list-solution.linked_list",
+        "peekOfCode": "class LinkedList:\n  def __init__(self):\n    self._head = None\n    self._tail = None\n    self._length = 0\n  # TODO: Implement the get_node method here\n  def get_node(self, position):\n    if position < 0 or position >= self._length:\n      return\n    counter = 0",
+        "detail": "project-archive.linked-list-solution.linked_list",
+        "documentation": {}
+    },
+    {
+        "label": "node",
+        "kind": 5,
+        "importPath": "project-archive.linked-list-solution.linked_list",
+        "description": "project-archive.linked-list-solution.linked_list",
+        "peekOfCode": "node = Node('hello')\nprint(node)                                     # <__main__.Node object at ...>\nprint(node._value)                              # hello\nlinked_list = LinkedList()\nprint(linked_list)                              # <__main__.LinkedList object at ...>\n# # 2. Test getting a node by its position\n# print(linked_list.get_node(0))                # None\n# # 3. Test adding a node to the list's tail\n# linked_list.add_to_tail('new tail node')\n# print(linked_list.get_node(0))                # <__main__.Node object at ...>",
+        "detail": "project-archive.linked-list-solution.linked_list",
+        "documentation": {}
+    },
+    {
+        "label": "linked_list",
+        "kind": 5,
+        "importPath": "project-archive.linked-list-solution.linked_list",
+        "description": "project-archive.linked-list-solution.linked_list",
+        "peekOfCode": "linked_list = LinkedList()\nprint(linked_list)                              # <__main__.LinkedList object at ...>\n# # 2. Test getting a node by its position\n# print(linked_list.get_node(0))                # None\n# # 3. Test adding a node to the list's tail\n# linked_list.add_to_tail('new tail node')\n# print(linked_list.get_node(0))                # <__main__.Node object at ...>\n# print(linked_list.get_node(0)._value)         # `new tail node`\n# # 4. Test adding a node to list's head\n# linked_list.add_to_head('new head node')",
+        "detail": "project-archive.linked-list-solution.linked_list",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "kind": 5,
+        "importPath": "project-archive.solution.app.models.db",
+        "description": "project-archive.solution.app.models.db",
+        "peekOfCode": "db = SQLAlchemy()\n# from app import app, db\n# from app.models import Employee, Menu, MenuItem, MenuItemType, Table\n# with app.app_context():\n#     db.drop_all()\n    # db.create_all()\n    # user = Employee(name=\"Margot\", employee_number=1234, password=\"password\")\n    # beverages = MenuItemType(name=\"Beverages\")\n    # entrees = MenuItemType(name=\"Entrees\")\n    # sides = MenuItemType(name=\"Sides\")",
+        "detail": "project-archive.solution.app.models.db",
+        "documentation": {}
+    },
+    {
+        "label": "Employee",
+        "kind": 6,
+        "importPath": "project-archive.solution.app.models.employee",
+        "description": "project-archive.solution.app.models.employee",
+        "peekOfCode": "class Employee(db.Model, UserMixin):\n    __tablename__ = \"employees\"\n    id = db.Column(db.Integer, primary_key=True)\n    name = db.Column(db.String(100), nullable=False)\n    employee_number = db.Column(db.Integer, nullable=False, unique=True)\n    hashed_password = db.Column(db.String(100), nullable=False)\n    orders = db.relationship(\"Order\", back_populates=\"employee\")\n    @property\n    def password(self):\n        return self.hashed_password",
+        "detail": "project-archive.solution.app.models.employee",
+        "documentation": {}
+    },
+    {
+        "label": "Menu",
+        "kind": 6,
+        "importPath": "project-archive.solution.app.models.menu",
+        "description": "project-archive.solution.app.models.menu",
+        "peekOfCode": "class Menu(db.Model):\n    __tablename__ = \"menus\"\n    id = db.Column(db.Integer, primary_key=True)\n    name = db.Column(db.String(30), nullable=False)\n    items = db.relationship(\"MenuItem\", back_populates=\"menu\")",
+        "detail": "project-archive.solution.app.models.menu",
+        "documentation": {}
+    },
+    {
+        "label": "MenuItem",
+        "kind": 6,
+        "importPath": "project-archive.solution.app.models.menu_item",
+        "description": "project-archive.solution.app.models.menu_item",
+        "peekOfCode": "class MenuItem(db.Model):\n    __tablename__ = \"menu_items\"\n    id = db.Column(db.Integer, primary_key=True)\n    name = db.Column(db.String(30), nullable=False)\n    price = db.Column(db.Float, nullable=False)\n    menu_id = db.Column(db.Integer, db.ForeignKey(\"menus.id\"))\n    menu_type_id = db.Column(db.Integer, db.ForeignKey(\"menu_item_types.id\"))\n    menu = db.relationship(\"Menu\", back_populates=\"items\")\n    type = db.relationship(\"MenuItemType\")",
+        "detail": "project-archive.solution.app.models.menu_item",
+        "documentation": {}
+    },
+    {
+        "label": "MenuItemType",
+        "kind": 6,
+        "importPath": "project-archive.solution.app.models.menu_item_type",
+        "description": "project-archive.solution.app.models.menu_item_type",
+        "peekOfCode": "class MenuItemType(db.Model):\n    __tablename__ = \"menu_item_types\"\n    id = db.Column(db.Integer, primary_key=True)\n    name = db.Column(db.String(30), nullable=False)",
+        "detail": "project-archive.solution.app.models.menu_item_type",
+        "documentation": {}
+    },
+    {
+        "label": "Order",
+        "kind": 6,
+        "importPath": "project-archive.solution.app.models.order",
+        "description": "project-archive.solution.app.models.order",
+        "peekOfCode": "class Order(db.Model):\n    __tablename__ = \"orders\"\n    id = db.Column(db.Integer, primary_key=True)\n    employee_id = db.Column(db.Integer,\n                            db.ForeignKey(\"employees.id\"),\n                            nullable=False)\n    table_id = db.Column(db.Integer,\n                         db.ForeignKey(\"tables.id\"),\n                         nullable=False)\n    finished = db.Column(db.Boolean, nullable=False)",
+        "detail": "project-archive.solution.app.models.order",
+        "documentation": {}
+    },
+    {
+        "label": "OrderDetail",
+        "kind": 6,
+        "importPath": "project-archive.solution.app.models.order_detail",
+        "description": "project-archive.solution.app.models.order_detail",
+        "peekOfCode": "class OrderDetail(db.Model):\n    __tablename__ = \"order_details\"\n    id = db.Column(db.Integer, primary_key=True)\n    order_id = db.Column(db.Integer,\n                         db.ForeignKey(\"orders.id\"),\n                         nullable=False)\n    menu_item_id = db.Column(db.Integer,\n                             db.ForeignKey(\"menu_items.id\"),\n                             nullable=False)\n    order = db.relationship(\"Order\", back_populates=\"details\")",
+        "detail": "project-archive.solution.app.models.order_detail",
+        "documentation": {}
+    },
+    {
+        "label": "Table",
+        "kind": 6,
+        "importPath": "project-archive.solution.app.models.table",
+        "description": "project-archive.solution.app.models.table",
+        "peekOfCode": "class Table(db.Model):\n    __tablename__ = \"tables\"\n    id = db.Column(db.Integer, primary_key=True)\n    number = db.Column(db.Integer, nullable=False)\n    capacity = db.Column(db.Integer, nullable=False)\n    orders = db.relationship(\"Order\", back_populates=\"table\")",
+        "detail": "project-archive.solution.app.models.table",
+        "documentation": {}
+    },
+    {
+        "label": "add_to_order",
+        "kind": 2,
+        "importPath": "project-archive.solution.app.routes.orders",
+        "description": "project-archive.solution.app.routes.orders",
+        "peekOfCode": "def add_to_order(id):\n    form = MenuItemAssignmentForm()\n    form.menu_item_ids.choices = [(item.id, '')\n                                  for item in MenuItem.query.all()]\n    from pprint import pprint\n    pprint(form.menu_item_ids.choices)\n    if form.validate_on_submit():\n        order = Order.query.get(id)\n        for menu_item_id in form.menu_item_ids.data:\n            detail = OrderDetail(order=order, menu_item_id=menu_item_id)",
+        "detail": "project-archive.solution.app.routes.orders",
+        "documentation": {}
+    },
+    {
+        "label": "assign",
+        "kind": 2,
+        "importPath": "project-archive.solution.app.routes.orders",
+        "description": "project-archive.solution.app.routes.orders",
+        "peekOfCode": "def assign():\n    form = TableAssignmentForm()\n    open_tables, servers = open_tables_and_servers()\n    form.tables.choices = [(t.id, f\"Table {t.number}\") for t in open_tables]\n    form.employees.choices = [(e.id, e.name) for e in servers]\n    if form.validate_on_submit():\n        order = Order(\n            employee_id=form.employees.data,\n            table_id=form.tables.data,\n            finished=False",
+        "detail": "project-archive.solution.app.routes.orders",
+        "documentation": {}
+    },
+    {
+        "label": "close",
+        "kind": 2,
+        "importPath": "project-archive.solution.app.routes.orders",
+        "description": "project-archive.solution.app.routes.orders",
+        "peekOfCode": "def close(id):\n    order = Order.query.get(id)\n    order.finished = True\n    db.session.commit()\n    return redirect(url_for('.index'))\n@bp.route(\"/\")\n@login_required\ndef index():\n    taf = TableAssignmentForm()\n    open_tables, servers = open_tables_and_servers()",
+        "detail": "project-archive.solution.app.routes.orders",
+        "documentation": {}
+    },
+    {
+        "label": "index",
+        "kind": 2,
+        "importPath": "project-archive.solution.app.routes.orders",
+        "description": "project-archive.solution.app.routes.orders",
+        "peekOfCode": "def index():\n    taf = TableAssignmentForm()\n    open_tables, servers = open_tables_and_servers()\n    taf.tables.choices = [(t.id, f\"Table {t.number}\") for t in open_tables]\n    taf.employees.choices = [(e.id, e.name) for e in servers]\n    open_orders = Order.query.filter(\n        Order.finished == False and Order.employee_id == current_user.id\n    ).options(joinedload(Order.table)).options(joinedload(Order.details, OrderDetail.menu_item))\n    foods = MenuItem.query.join(MenuItemType).order_by(MenuItemType.name, MenuItem.name).options(joinedload(MenuItem.type))\n    foods_by_type = {}",
+        "detail": "project-archive.solution.app.routes.orders",
+        "documentation": {}
+    },
+    {
+        "label": "open_tables_and_servers",
+        "kind": 2,
+        "importPath": "project-archive.solution.app.routes.orders",
+        "description": "project-archive.solution.app.routes.orders",
+        "peekOfCode": "def open_tables_and_servers():\n    tables = Table.query.order_by(Table.number)\n    open_orders = Order.query.filter(Order.finished == False)\n    busy_table_ids = [order.table_id for order in open_orders]\n    open_tables = [table for table in tables if table.id not in busy_table_ids]\n    servers = Employee.query.all()\n    return open_tables, servers",
+        "detail": "project-archive.solution.app.routes.orders",
+        "documentation": {}
+    },
+    {
+        "label": "bp",
+        "kind": 5,
+        "importPath": "project-archive.solution.app.routes.orders",
+        "description": "project-archive.solution.app.routes.orders",
+        "peekOfCode": "bp = Blueprint(\"orders\", __name__, url_prefix=\"\")\n@bp.route(\"/orders/<int:id>/items\", methods=[\"POST\"])\n@login_required\ndef add_to_order(id):\n    form = MenuItemAssignmentForm()\n    form.menu_item_ids.choices = [(item.id, '')\n                                  for item in MenuItem.query.all()]\n    from pprint import pprint\n    pprint(form.menu_item_ids.choices)\n    if form.validate_on_submit():",
+        "detail": "project-archive.solution.app.routes.orders",
+        "documentation": {}
+    },
+    {
+        "label": "login",
+        "kind": 2,
+        "importPath": "project-archive.solution.app.routes.session",
+        "description": "project-archive.solution.app.routes.session",
+        "peekOfCode": "def login():\n    if current_user.is_authenticated:\n        return redirect(url_for(\"orders.index\"))\n    form = LoginForm()\n    from pprint import pprint\n    pprint(form.data)\n    if form.validate_on_submit():\n        n = form.employee_number.data\n        employee = Employee.query.filter(Employee.employee_number == n).first()\n        if not employee or not employee.check_password(form.password.data):",
+        "detail": "project-archive.solution.app.routes.session",
+        "documentation": {}
+    },
+    {
+        "label": "logout",
+        "kind": 2,
+        "importPath": "project-archive.solution.app.routes.session",
+        "description": "project-archive.solution.app.routes.session",
+        "peekOfCode": "def logout():\n    logout_user()\n    return redirect(url_for('.login'))",
+        "detail": "project-archive.solution.app.routes.session",
+        "documentation": {}
+    },
+    {
+        "label": "bp",
+        "kind": 5,
+        "importPath": "project-archive.solution.app.routes.session",
+        "description": "project-archive.solution.app.routes.session",
+        "peekOfCode": "bp = Blueprint(\"session\", __name__, url_prefix=\"/session\")\n@bp.route(\"/\", methods=[\"GET\", \"POST\"])\ndef login():\n    if current_user.is_authenticated:\n        return redirect(url_for(\"orders.index\"))\n    form = LoginForm()\n    from pprint import pprint\n    pprint(form.data)\n    if form.validate_on_submit():\n        n = form.employee_number.data",
+        "detail": "project-archive.solution.app.routes.session",
+        "documentation": {}
+    },
+    {
+        "label": "main_page",
+        "kind": 2,
+        "importPath": "project-archive.solution.app.routes.simple",
+        "description": "project-archive.solution.app.routes.simple",
+        "peekOfCode": "def main_page():\n    return render_template(\"main_page.html\")\n@bp.route(\"/simple-form\")\ndef simple_form():\n    form = SimpleForm()\n    return render_template(\"simple_form.html\", form=form)\n@bp.route(\"/simple-form\", methods=[\"POST\"])\ndef simple_data():\n    form = SimpleForm()\n    if form.validate_on_submit():",
+        "detail": "project-archive.solution.app.routes.simple",
+        "documentation": {}
+    },
+    {
+        "label": "simple_form",
+        "kind": 2,
+        "importPath": "project-archive.solution.app.routes.simple",
+        "description": "project-archive.solution.app.routes.simple",
+        "peekOfCode": "def simple_form():\n    form = SimpleForm()\n    return render_template(\"simple_form.html\", form=form)\n@bp.route(\"/simple-form\", methods=[\"POST\"])\ndef simple_data():\n    form = SimpleForm()\n    if form.validate_on_submit():\n        data = SimplePerson()\n        form.populate_obj(data)\n        db.session.add(data)",
+        "detail": "project-archive.solution.app.routes.simple",
+        "documentation": {}
+    },
+    {
+        "label": "simple_data",
+        "kind": 2,
+        "importPath": "project-archive.solution.app.routes.simple",
+        "description": "project-archive.solution.app.routes.simple",
+        "peekOfCode": "def simple_data():\n    form = SimpleForm()\n    if form.validate_on_submit():\n        data = SimplePerson()\n        form.populate_obj(data)\n        db.session.add(data)\n        db.session.commit()\n        return redirect(\"/\")\n    print(form.errors)\n    return \"Bad Data\"",
+        "detail": "project-archive.solution.app.routes.simple",
+        "documentation": {}
+    },
+    {
+        "label": "simple_form_data",
+        "kind": 2,
+        "importPath": "project-archive.solution.app.routes.simple",
+        "description": "project-archive.solution.app.routes.simple",
+        "peekOfCode": "def simple_form_data():\n    result = SimplePerson.query.filter(SimplePerson.name.like(\"M%\")).all()\n    return render_template(\"simple_form_data.html\", result=result)",
+        "detail": "project-archive.solution.app.routes.simple",
+        "documentation": {}
+    },
+    {
+        "label": "bp",
+        "kind": 5,
+        "importPath": "project-archive.solution.app.routes.simple",
+        "description": "project-archive.solution.app.routes.simple",
+        "peekOfCode": "bp = Blueprint(\"simple\", __name__, \"\")\n@bp.route(\"/\")\ndef main_page():\n    return render_template(\"main_page.html\")\n@bp.route(\"/simple-form\")\ndef simple_form():\n    form = SimpleForm()\n    return render_template(\"simple_form.html\", form=form)\n@bp.route(\"/simple-form\", methods=[\"POST\"])\ndef simple_data():",
+        "detail": "project-archive.solution.app.routes.simple",
+        "documentation": {}
+    },
+    {
+        "label": "Config",
+        "kind": 6,
+        "importPath": "project-archive.solution.app.config",
+        "description": "project-archive.solution.app.config",
+        "peekOfCode": "class Config(object):\n    SECRET_KEY = os.environ.get('SECRET_KEY') or \"Debug_Key\"\n    SQLALCHEMY_DATABASE_URI = os.environ.get(\"DATABASE_URL\")\n    SQLALCHEMY_TRACK_MODIFICATIONS=False",
+        "detail": "project-archive.solution.app.config",
+        "documentation": {}
+    },
+    {
+        "label": "AppointmentForm",
+        "kind": 6,
+        "importPath": "project-archive.solution.app.forms",
+        "description": "project-archive.solution.app.forms",
+        "peekOfCode": "class AppointmentForm(FlaskForm):\n    name = StringField(\"Name\", v)\n    start_date = DateField(\"Start date\", v, **di)\n    start_time = TimeField(\"Start time\", v, **sti)\n    end_date = DateField(\"End date\", v, **di)\n    end_time = TimeField(\"End time\", v, **eti)\n    description = TextAreaField(\"Description\", v)\n    private = BooleanField(\"Private?\")\n    submit = SubmitField(\"Create an appointment\")\n    def validate_end_date(form, field):",
+        "detail": "project-archive.solution.app.forms",
+        "documentation": {}
+    },
+    {
+        "label": "next_block",
+        "kind": 2,
+        "importPath": "project-archive.solution.app.forms",
+        "description": "project-archive.solution.app.forms",
+        "peekOfCode": "def next_block(delta=0):\n    def time():\n        now = datetime.now()\n        return now - timedelta(minutes=now.minute % 15 - delta - 15,\n                               seconds=now.second)\n    return time\nv = [DataRequired()]\ndi = {'default': datetime.now, 'widget': DateInput()}\nsti = {'default': next_block(), 'widget': TimeInput()}\neti = {'default': next_block(60), 'widget': TimeInput()}",
+        "detail": "project-archive.solution.app.forms",
+        "documentation": {}
+    },
+    {
+        "label": "v",
+        "kind": 5,
+        "importPath": "project-archive.solution.app.forms",
+        "description": "project-archive.solution.app.forms",
+        "peekOfCode": "v = [DataRequired()]\ndi = {'default': datetime.now, 'widget': DateInput()}\nsti = {'default': next_block(), 'widget': TimeInput()}\neti = {'default': next_block(60), 'widget': TimeInput()}\nclass AppointmentForm(FlaskForm):\n    name = StringField(\"Name\", v)\n    start_date = DateField(\"Start date\", v, **di)\n    start_time = TimeField(\"Start time\", v, **sti)\n    end_date = DateField(\"End date\", v, **di)\n    end_time = TimeField(\"End time\", v, **eti)",
+        "detail": "project-archive.solution.app.forms",
+        "documentation": {}
+    },
+    {
+        "label": "di",
+        "kind": 5,
+        "importPath": "project-archive.solution.app.forms",
+        "description": "project-archive.solution.app.forms",
+        "peekOfCode": "di = {'default': datetime.now, 'widget': DateInput()}\nsti = {'default': next_block(), 'widget': TimeInput()}\neti = {'default': next_block(60), 'widget': TimeInput()}\nclass AppointmentForm(FlaskForm):\n    name = StringField(\"Name\", v)\n    start_date = DateField(\"Start date\", v, **di)\n    start_time = TimeField(\"Start time\", v, **sti)\n    end_date = DateField(\"End date\", v, **di)\n    end_time = TimeField(\"End time\", v, **eti)\n    description = TextAreaField(\"Description\", v)",
+        "detail": "project-archive.solution.app.forms",
+        "documentation": {}
+    },
+    {
+        "label": "sti",
+        "kind": 5,
+        "importPath": "project-archive.solution.app.forms",
+        "description": "project-archive.solution.app.forms",
+        "peekOfCode": "sti = {'default': next_block(), 'widget': TimeInput()}\neti = {'default': next_block(60), 'widget': TimeInput()}\nclass AppointmentForm(FlaskForm):\n    name = StringField(\"Name\", v)\n    start_date = DateField(\"Start date\", v, **di)\n    start_time = TimeField(\"Start time\", v, **sti)\n    end_date = DateField(\"End date\", v, **di)\n    end_time = TimeField(\"End time\", v, **eti)\n    description = TextAreaField(\"Description\", v)\n    private = BooleanField(\"Private?\")",
+        "detail": "project-archive.solution.app.forms",
+        "documentation": {}
+    },
+    {
+        "label": "eti",
+        "kind": 5,
+        "importPath": "project-archive.solution.app.forms",
+        "description": "project-archive.solution.app.forms",
+        "peekOfCode": "eti = {'default': next_block(60), 'widget': TimeInput()}\nclass AppointmentForm(FlaskForm):\n    name = StringField(\"Name\", v)\n    start_date = DateField(\"Start date\", v, **di)\n    start_time = TimeField(\"Start time\", v, **sti)\n    end_date = DateField(\"End date\", v, **di)\n    end_time = TimeField(\"End time\", v, **eti)\n    description = TextAreaField(\"Description\", v)\n    private = BooleanField(\"Private?\")\n    submit = SubmitField(\"Create an appointment\")",
+        "detail": "project-archive.solution.app.forms",
+        "documentation": {}
+    },
+    {
+        "label": "Package",
+        "kind": 6,
+        "importPath": "project-archive.solution.app.models",
+        "description": "project-archive.solution.app.models",
+        "peekOfCode": "class Package(db.Model):\n    __tablename__ = 'packages'\n    id = db.Column(db.Integer, primary_key=True)\n    sender = db.Column(db.String(255))\n    recipient = db.Column(db.String(255))\n    origin = db.Column(db.String(255))\n    destination = db.Column(db.String(255))\n    location = db.Column(db.String(255))\n    express = db.Column(db.Boolean, server_default=\"False\")\n    @staticmethod",
+        "detail": "project-archive.solution.app.models",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "kind": 5,
+        "importPath": "project-archive.solution.app.models",
+        "description": "project-archive.solution.app.models",
+        "peekOfCode": "db = SQLAlchemy()\nclass Package(db.Model):\n    __tablename__ = 'packages'\n    id = db.Column(db.Integer, primary_key=True)\n    sender = db.Column(db.String(255))\n    recipient = db.Column(db.String(255))\n    origin = db.Column(db.String(255))\n    destination = db.Column(db.String(255))\n    location = db.Column(db.String(255))\n    express = db.Column(db.Boolean, server_default=\"False\")",
+        "detail": "project-archive.solution.app.models",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "project-archive.solution.app.routes",
+        "description": "project-archive.solution.app.routes",
+        "peekOfCode": "def main():\n    d = datetime.now()\n    return redirect(url_for(\".daily\", year=d.year, month=d.month, day=d.day))\n@bp.route(\"/<int:year>/<int:month>/<int:day>\", methods=[\"GET\", \"POST\"])\ndef daily(year, month, day):\n    form = AppointmentForm()\n    if form.validate_on_submit():\n        with psycopg2.connect(**CONNECTION_PARAMETERS) as conn:\n            with conn.cursor() as insert:\n                sql = \"\"\"",
+        "detail": "project-archive.solution.app.routes",
+        "documentation": {}
+    },
+    {
+        "label": "daily",
+        "kind": 2,
+        "importPath": "project-archive.solution.app.routes",
+        "description": "project-archive.solution.app.routes",
+        "peekOfCode": "def daily(year, month, day):\n    form = AppointmentForm()\n    if form.validate_on_submit():\n        with psycopg2.connect(**CONNECTION_PARAMETERS) as conn:\n            with conn.cursor() as insert:\n                sql = \"\"\"\n                    INSERT INTO appointments (\n                        name,\n                        start_datetime,\n                        end_datetime,",
+        "detail": "project-archive.solution.app.routes",
+        "documentation": {}
+    },
+    {
+        "label": "round_time",
+        "kind": 2,
+        "importPath": "project-archive.solution.app.routes",
+        "description": "project-archive.solution.app.routes",
+        "peekOfCode": "def round_time(time):\n    return time - timedelta(minutes=time.minute % 15,\n                            seconds=time.second)\ndef slot(day, index, hours=0):\n    day = datetime(day.year, day.month, day.day)\n    day = day + timedelta(hours=hours)\n    return day + timedelta(minutes=15 * index)",
+        "detail": "project-archive.solution.app.routes",
+        "documentation": {}
+    },
+    {
+        "label": "slot",
+        "kind": 2,
+        "importPath": "project-archive.solution.app.routes",
+        "description": "project-archive.solution.app.routes",
+        "peekOfCode": "def slot(day, index, hours=0):\n    day = datetime(day.year, day.month, day.day)\n    day = day + timedelta(hours=hours)\n    return day + timedelta(minutes=15 * index)",
+        "detail": "project-archive.solution.app.routes",
+        "documentation": {}
+    },
+    {
+        "label": "bp",
+        "kind": 5,
+        "importPath": "project-archive.solution.app.routes",
+        "description": "project-archive.solution.app.routes",
+        "peekOfCode": "bp = Blueprint(\"main\", __name__, url_prefix=\"\")\nCONNECTION_PARAMETERS = {\n    \"user\": os.environ.get(\"DB_USER\"),\n    \"password\": os.environ.get(\"DB_PASS\"),\n    \"dbname\": os.environ.get(\"DB_NAME\"),\n    \"host\": os.environ.get(\"DB_HOST\"),\n}\n@bp.route(\"/\")\ndef main():\n    d = datetime.now()",
+        "detail": "project-archive.solution.app.routes",
+        "documentation": {}
+    },
+    {
+        "label": "CONNECTION_PARAMETERS",
+        "kind": 5,
+        "importPath": "project-archive.solution.app.routes",
+        "description": "project-archive.solution.app.routes",
+        "peekOfCode": "CONNECTION_PARAMETERS = {\n    \"user\": os.environ.get(\"DB_USER\"),\n    \"password\": os.environ.get(\"DB_PASS\"),\n    \"dbname\": os.environ.get(\"DB_NAME\"),\n    \"host\": os.environ.get(\"DB_HOST\"),\n}\n@bp.route(\"/\")\ndef main():\n    d = datetime.now()\n    return redirect(url_for(\".daily\", year=d.year, month=d.month, day=d.day))",
+        "detail": "project-archive.solution.app.routes",
+        "documentation": {}
+    },
+    {
+        "label": "ShippingForm",
+        "kind": 6,
+        "importPath": "project-archive.solution.app.shipping_form",
+        "description": "project-archive.solution.app.shipping_form",
+        "peekOfCode": "class ShippingForm(FlaskForm):\n    sender_name = StringField('Sender', validators=[DataRequired()])\n    recipient_name = StringField('Recipient', validators=[DataRequired()])\n    origin = SelectField('Origin',\n                         choices=cities,\n                         validators=[DataRequired()])\n    destination = SelectField('Destination',\n                              choices=cities,\n                              validators=[DataRequired()])\n    submit = SubmitField(\"Ship It!\")",
+        "detail": "project-archive.solution.app.shipping_form",
+        "documentation": {}
+    },
+    {
+        "label": "cities",
+        "kind": 5,
+        "importPath": "project-archive.solution.app.shipping_form",
+        "description": "project-archive.solution.app.shipping_form",
+        "peekOfCode": "cities = [(city, city) for city in map.keys()]\nclass ShippingForm(FlaskForm):\n    sender_name = StringField('Sender', validators=[DataRequired()])\n    recipient_name = StringField('Recipient', validators=[DataRequired()])\n    origin = SelectField('Origin',\n                         choices=cities,\n                         validators=[DataRequired()])\n    destination = SelectField('Destination',\n                              choices=cities,\n                              validators=[DataRequired()])",
+        "detail": "project-archive.solution.app.shipping_form",
+        "documentation": {}
+    },
+    {
+        "label": "find_shortest_path_bfs",
+        "kind": 2,
+        "importPath": "project-archive.solution.map.map",
+        "description": "project-archive.solution.map.map",
+        "peekOfCode": "def find_shortest_path_bfs(start, end):\n    # Question:  Why is a Python list acceptable to use for this queue?\n    qq = []\n    qq.append([start])\n    visited = set()\n    while len(qq) > 0:\n        path = qq.pop()\n        city = path[-1]\n        if city == end:\n            return path",
+        "detail": "project-archive.solution.map.map",
+        "documentation": {}
+    },
+    {
+        "label": "find_shortest_path_dij",
+        "kind": 2,
+        "importPath": "project-archive.solution.map.map",
+        "description": "project-archive.solution.map.map",
+        "peekOfCode": "def find_shortest_path_dij(map, start, end):\n    # Track list of cities that we need to visit next\n    next_cities = [start]\n    # Cities that we have fully explored\n    visited = set()\n    # Track each city we encounter, the total distance to get there, and the previous city in the route\n    # We're tracking both of these values in one dict for each city\n    distances = {start: {\"distance_from_start\": 0, \"previous\": None}}\n    # While we have cities to explore and we have previously made it to our end location\n    while next_cities and end not in visited:",
+        "detail": "project-archive.solution.map.map",
+        "documentation": {}
+    },
+    {
+        "label": "trace_back",
+        "kind": 2,
+        "importPath": "project-archive.solution.map.map",
+        "description": "project-archive.solution.map.map",
+        "peekOfCode": "def trace_back(distances, start, end):\n    if end not in distances:\n        return 'Path not viable' \n    path = [end]\n    # Build our path from our end point, referencing the previous node at each step\n    while path[0] != start:\n        current = distances.get(path[0])\n        previous = current.get(\"previous\")\n        path.insert(0, previous)\n    return path",
+        "detail": "project-archive.solution.map.map",
+        "documentation": {}
+    },
+    {
+        "label": "advance_delivery",
+        "kind": 2,
+        "importPath": "project-archive.solution.map.map",
+        "description": "project-archive.solution.map.map",
+        "peekOfCode": "def advance_delivery(location, destination):\n    print(\"advancing\", location, destination)\n    # shouldn't be called in this case\n    if location in [DELIVERED, destination]:\n        return DELIVERED\n    path = find_shortest_path_bfs(location, destination) # Old BFS way\n    path = find_shortest_path_dij(map_dij, location, destination) # Find a better path!\n    # Safe to say there is a next city if we get here\n    return path[1]\n# Testing",
+        "detail": "project-archive.solution.map.map",
+        "documentation": {}
+    },
+    {
+        "label": "map",
+        "kind": 5,
+        "importPath": "project-archive.solution.map.map",
+        "description": "project-archive.solution.map.map",
+        "peekOfCode": "map = {\n    \"Seattle\": {\"San Francisco\", \"Washington D.C.\"},\n    \"San Francisco\": {\"Seattle\", \"Los Angeles\", \"Denver\"},\n    \"Los Angeles\": {\"San Francisco\", \"Phoenix\"},\n    \"Phoenix\": {\"Los Angeles\", \"Denver\"},\n    \"Denver\": {\"Phoenix\", \"San Francisco\", \"Houston\", \"Kansas City\"},\n    \"Kansas City\": {\"Denver\", \"Houston\", \"Chicago\", \"Nashville\"},\n    \"Houston\": {\"Kansas City\", \"Denver\"},\n    \"Chicago\": {\"Kansas City\", \"New York\"},\n    \"Nashville\": {\"Kansas City\", \"Houston\", \"Miami\"},",
+        "detail": "project-archive.solution.map.map",
+        "documentation": {}
+    },
+    {
+        "label": "DELIVERED",
+        "kind": 5,
+        "importPath": "project-archive.solution.map.map",
+        "description": "project-archive.solution.map.map",
+        "peekOfCode": "DELIVERED = \"Delivered\"\n# Use BFS to find the shortest path\ndef find_shortest_path_bfs(start, end):\n    # Question:  Why is a Python list acceptable to use for this queue?\n    qq = []\n    qq.append([start])\n    visited = set()\n    while len(qq) > 0:\n        path = qq.pop()\n        city = path[-1]",
+        "detail": "project-archive.solution.map.map",
+        "documentation": {}
+    },
+    {
+        "label": "map_dij",
+        "kind": 5,
+        "importPath": "project-archive.solution.map.map",
+        "description": "project-archive.solution.map.map",
+        "peekOfCode": "map_dij = {\n    \"Seattle\": {(\"San Francisco\", 679), (\"Washington D.C.\", 1000000)},\n    \"San Francisco\": {(\"Seattle\", 679), (\"Los Angeles\", 381), (\"Denver\", 474)},\n    \"Los Angeles\": {(\"San Francisco\", 381), (\"Phoenix\", 357)},\n    \"Phoenix\": {(\"Los Angeles\", 357), (\"Denver\", 586)},\n    \"Denver\": {(\"Phoenix\", 586), (\"San Francisco\", 474), (\"Houston\", 878), (\"Kansas City\", 557)},\n    \"Kansas City\": {(\"Denver\", 557), (\"Houston\", 815), (\"Chicago\", 412), (\"Nashville\", 554)},\n    \"Houston\": {(\"Kansas City\", 815), (\"Denver\", 878)},\n    \"Chicago\": {(\"Kansas City\", 412), (\"New York\", 712)},\n    \"Nashville\": {(\"Kansas City\", 554), (\"Houston\", 665), (\"Miami\", 817)},",
+        "detail": "project-archive.solution.map.map",
+        "documentation": {}
+    },
+    {
+        "label": "simple_map_dij",
+        "kind": 5,
+        "importPath": "project-archive.solution.map.map",
+        "description": "project-archive.solution.map.map",
+        "peekOfCode": "simple_map_dij = {\n    \"A\": {(\"B\", 30), (\"F\", 75), (\"E\", 200)},\n    \"B\": {(\"A\", 30), (\"C\", 20)},\n    \"C\": {(\"B\", 20), (\"D\", 30)},\n    \"D\": {(\"C\", 30), (\"E\", 25)},\n    \"E\": {(\"A\", 200), (\"D\", 25), (\"F\", 26)},\n    \"F\": {(\"E\", 26), (\"A\", 75)},\n}\n'''\n  A----(75)---F",
+        "detail": "project-archive.solution.map.map",
+        "documentation": {}
+    },
+    {
+        "label": "upgrade",
+        "kind": 2,
+        "importPath": "project-archive.solution.migrations.versions.20200625_165528_add_express_boolean_to_package",
+        "description": "project-archive.solution.migrations.versions.20200625_165528_add_express_boolean_to_package",
+        "peekOfCode": "def upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.add_column('packages', sa.Column('express', sa.Boolean(), server_default='False', nullable=True))\n    # ### end Alembic commands ###\ndef downgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.drop_column('packages', 'express')\n    # ### end Alembic commands ###",
+        "detail": "project-archive.solution.migrations.versions.20200625_165528_add_express_boolean_to_package",
+        "documentation": {}
+    },
+    {
+        "label": "downgrade",
+        "kind": 2,
+        "importPath": "project-archive.solution.migrations.versions.20200625_165528_add_express_boolean_to_package",
+        "description": "project-archive.solution.migrations.versions.20200625_165528_add_express_boolean_to_package",
+        "peekOfCode": "def downgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.drop_column('packages', 'express')\n    # ### end Alembic commands ###",
+        "detail": "project-archive.solution.migrations.versions.20200625_165528_add_express_boolean_to_package",
+        "documentation": {}
+    },
+    {
+        "label": "revision",
+        "kind": 5,
+        "importPath": "project-archive.solution.migrations.versions.20200625_165528_add_express_boolean_to_package",
+        "description": "project-archive.solution.migrations.versions.20200625_165528_add_express_boolean_to_package",
+        "peekOfCode": "revision = 'fdbecaf262b5'\ndown_revision = 'f1b9ee79cb54'\nbranch_labels = None\ndepends_on = None\ndef upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.add_column('packages', sa.Column('express', sa.Boolean(), server_default='False', nullable=True))\n    # ### end Alembic commands ###\ndef downgrade():\n    # ### commands auto generated by Alembic - please adjust! ###",
+        "detail": "project-archive.solution.migrations.versions.20200625_165528_add_express_boolean_to_package",
+        "documentation": {}
+    },
+    {
+        "label": "down_revision",
+        "kind": 5,
+        "importPath": "project-archive.solution.migrations.versions.20200625_165528_add_express_boolean_to_package",
+        "description": "project-archive.solution.migrations.versions.20200625_165528_add_express_boolean_to_package",
+        "peekOfCode": "down_revision = 'f1b9ee79cb54'\nbranch_labels = None\ndepends_on = None\ndef upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.add_column('packages', sa.Column('express', sa.Boolean(), server_default='False', nullable=True))\n    # ### end Alembic commands ###\ndef downgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.drop_column('packages', 'express')",
+        "detail": "project-archive.solution.migrations.versions.20200625_165528_add_express_boolean_to_package",
+        "documentation": {}
+    },
+    {
+        "label": "branch_labels",
+        "kind": 5,
+        "importPath": "project-archive.solution.migrations.versions.20200625_165528_add_express_boolean_to_package",
+        "description": "project-archive.solution.migrations.versions.20200625_165528_add_express_boolean_to_package",
+        "peekOfCode": "branch_labels = None\ndepends_on = None\ndef upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.add_column('packages', sa.Column('express', sa.Boolean(), server_default='False', nullable=True))\n    # ### end Alembic commands ###\ndef downgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.drop_column('packages', 'express')\n    # ### end Alembic commands ###",
+        "detail": "project-archive.solution.migrations.versions.20200625_165528_add_express_boolean_to_package",
+        "documentation": {}
+    },
+    {
+        "label": "depends_on",
+        "kind": 5,
+        "importPath": "project-archive.solution.migrations.versions.20200625_165528_add_express_boolean_to_package",
+        "description": "project-archive.solution.migrations.versions.20200625_165528_add_express_boolean_to_package",
+        "peekOfCode": "depends_on = None\ndef upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.add_column('packages', sa.Column('express', sa.Boolean(), server_default='False', nullable=True))\n    # ### end Alembic commands ###\ndef downgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.drop_column('packages', 'express')\n    # ### end Alembic commands ###",
+        "detail": "project-archive.solution.migrations.versions.20200625_165528_add_express_boolean_to_package",
+        "documentation": {}
+    },
+    {
+        "label": "upgrade",
+        "kind": 2,
+        "importPath": "project-archive.solution.migrations.versions.4be95337cf96_",
+        "description": "project-archive.solution.migrations.versions.4be95337cf96_",
+        "peekOfCode": "def upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('simple_people',\n    sa.Column('id', sa.Integer(), nullable=False),\n    sa.Column('name', sa.String(length=50), nullable=False),\n    sa.Column('age', sa.Integer(), nullable=True),\n    sa.Column('bio', sa.String(length=2000), nullable=True),\n    sa.PrimaryKeyConstraint('id')\n    )\n    # ### end Alembic commands ###",
+        "detail": "project-archive.solution.migrations.versions.4be95337cf96_",
+        "documentation": {}
+    },
+    {
+        "label": "downgrade",
+        "kind": 2,
+        "importPath": "project-archive.solution.migrations.versions.4be95337cf96_",
+        "description": "project-archive.solution.migrations.versions.4be95337cf96_",
+        "peekOfCode": "def downgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.drop_table('simple_people')\n    # ### end Alembic commands ###",
+        "detail": "project-archive.solution.migrations.versions.4be95337cf96_",
+        "documentation": {}
+    },
+    {
+        "label": "revision",
+        "kind": 5,
+        "importPath": "project-archive.solution.migrations.versions.4be95337cf96_",
+        "description": "project-archive.solution.migrations.versions.4be95337cf96_",
+        "peekOfCode": "revision = '4be95337cf96'\ndown_revision = None\nbranch_labels = None\ndepends_on = None\ndef upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('simple_people',\n    sa.Column('id', sa.Integer(), nullable=False),\n    sa.Column('name', sa.String(length=50), nullable=False),\n    sa.Column('age', sa.Integer(), nullable=True),",
+        "detail": "project-archive.solution.migrations.versions.4be95337cf96_",
+        "documentation": {}
+    },
+    {
+        "label": "down_revision",
+        "kind": 5,
+        "importPath": "project-archive.solution.migrations.versions.4be95337cf96_",
+        "description": "project-archive.solution.migrations.versions.4be95337cf96_",
+        "peekOfCode": "down_revision = None\nbranch_labels = None\ndepends_on = None\ndef upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('simple_people',\n    sa.Column('id', sa.Integer(), nullable=False),\n    sa.Column('name', sa.String(length=50), nullable=False),\n    sa.Column('age', sa.Integer(), nullable=True),\n    sa.Column('bio', sa.String(length=2000), nullable=True),",
+        "detail": "project-archive.solution.migrations.versions.4be95337cf96_",
+        "documentation": {}
+    },
+    {
+        "label": "branch_labels",
+        "kind": 5,
+        "importPath": "project-archive.solution.migrations.versions.4be95337cf96_",
+        "description": "project-archive.solution.migrations.versions.4be95337cf96_",
+        "peekOfCode": "branch_labels = None\ndepends_on = None\ndef upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('simple_people',\n    sa.Column('id', sa.Integer(), nullable=False),\n    sa.Column('name', sa.String(length=50), nullable=False),\n    sa.Column('age', sa.Integer(), nullable=True),\n    sa.Column('bio', sa.String(length=2000), nullable=True),\n    sa.PrimaryKeyConstraint('id')",
+        "detail": "project-archive.solution.migrations.versions.4be95337cf96_",
+        "documentation": {}
+    },
+    {
+        "label": "depends_on",
+        "kind": 5,
+        "importPath": "project-archive.solution.migrations.versions.4be95337cf96_",
+        "description": "project-archive.solution.migrations.versions.4be95337cf96_",
+        "peekOfCode": "depends_on = None\ndef upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('simple_people',\n    sa.Column('id', sa.Integer(), nullable=False),\n    sa.Column('name', sa.String(length=50), nullable=False),\n    sa.Column('age', sa.Integer(), nullable=True),\n    sa.Column('bio', sa.String(length=2000), nullable=True),\n    sa.PrimaryKeyConstraint('id')\n    )",
+        "detail": "project-archive.solution.migrations.versions.4be95337cf96_",
+        "documentation": {}
+    },
+    {
+        "label": "upgrade",
+        "kind": 2,
+        "importPath": "project-archive.solution.migrations.versions.a5129010c510_create_tables",
+        "description": "project-archive.solution.migrations.versions.a5129010c510_create_tables",
+        "peekOfCode": "def upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('employees',\n    sa.Column('id', sa.Integer(), nullable=False),\n    sa.Column('name', sa.String(length=100), nullable=False),\n    sa.Column('employee_number', sa.Integer(), nullable=False),\n    sa.Column('hashed_password', sa.String(length=100), nullable=False),\n    sa.PrimaryKeyConstraint('id'),\n    sa.UniqueConstraint('employee_number')\n    )",
+        "detail": "project-archive.solution.migrations.versions.a5129010c510_create_tables",
+        "documentation": {}
+    },
+    {
+        "label": "downgrade",
+        "kind": 2,
+        "importPath": "project-archive.solution.migrations.versions.a5129010c510_create_tables",
+        "description": "project-archive.solution.migrations.versions.a5129010c510_create_tables",
+        "peekOfCode": "def downgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.drop_table('order_details')\n    op.drop_table('orders')\n    op.drop_table('menu_items')\n    op.drop_table('tables')\n    op.drop_table('menus')\n    op.drop_table('menu_item_types')\n    op.drop_table('employees')\n    # ### end Alembic commands ###",
+        "detail": "project-archive.solution.migrations.versions.a5129010c510_create_tables",
+        "documentation": {}
+    },
+    {
+        "label": "revision",
+        "kind": 5,
+        "importPath": "project-archive.solution.migrations.versions.a5129010c510_create_tables",
+        "description": "project-archive.solution.migrations.versions.a5129010c510_create_tables",
+        "peekOfCode": "revision = 'a5129010c510'\ndown_revision = None\nbranch_labels = None\ndepends_on = None\ndef upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('employees',\n    sa.Column('id', sa.Integer(), nullable=False),\n    sa.Column('name', sa.String(length=100), nullable=False),\n    sa.Column('employee_number', sa.Integer(), nullable=False),",
+        "detail": "project-archive.solution.migrations.versions.a5129010c510_create_tables",
+        "documentation": {}
+    },
+    {
+        "label": "down_revision",
+        "kind": 5,
+        "importPath": "project-archive.solution.migrations.versions.a5129010c510_create_tables",
+        "description": "project-archive.solution.migrations.versions.a5129010c510_create_tables",
+        "peekOfCode": "down_revision = None\nbranch_labels = None\ndepends_on = None\ndef upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('employees',\n    sa.Column('id', sa.Integer(), nullable=False),\n    sa.Column('name', sa.String(length=100), nullable=False),\n    sa.Column('employee_number', sa.Integer(), nullable=False),\n    sa.Column('hashed_password', sa.String(length=100), nullable=False),",
+        "detail": "project-archive.solution.migrations.versions.a5129010c510_create_tables",
+        "documentation": {}
+    },
+    {
+        "label": "branch_labels",
+        "kind": 5,
+        "importPath": "project-archive.solution.migrations.versions.a5129010c510_create_tables",
+        "description": "project-archive.solution.migrations.versions.a5129010c510_create_tables",
+        "peekOfCode": "branch_labels = None\ndepends_on = None\ndef upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('employees',\n    sa.Column('id', sa.Integer(), nullable=False),\n    sa.Column('name', sa.String(length=100), nullable=False),\n    sa.Column('employee_number', sa.Integer(), nullable=False),\n    sa.Column('hashed_password', sa.String(length=100), nullable=False),\n    sa.PrimaryKeyConstraint('id'),",
+        "detail": "project-archive.solution.migrations.versions.a5129010c510_create_tables",
+        "documentation": {}
+    },
+    {
+        "label": "depends_on",
+        "kind": 5,
+        "importPath": "project-archive.solution.migrations.versions.a5129010c510_create_tables",
+        "description": "project-archive.solution.migrations.versions.a5129010c510_create_tables",
+        "peekOfCode": "depends_on = None\ndef upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('employees',\n    sa.Column('id', sa.Integer(), nullable=False),\n    sa.Column('name', sa.String(length=100), nullable=False),\n    sa.Column('employee_number', sa.Integer(), nullable=False),\n    sa.Column('hashed_password', sa.String(length=100), nullable=False),\n    sa.PrimaryKeyConstraint('id'),\n    sa.UniqueConstraint('employee_number')",
+        "detail": "project-archive.solution.migrations.versions.a5129010c510_create_tables",
+        "documentation": {}
+    },
+    {
+        "label": "upgrade",
+        "kind": 2,
+        "importPath": "project-archive.solution.migrations.versions.f1b9ee79cb54_create_packages_table",
+        "description": "project-archive.solution.migrations.versions.f1b9ee79cb54_create_packages_table",
+        "peekOfCode": "def upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('packages',\n    sa.Column('id', sa.Integer(), nullable=False),\n    sa.Column('sender', sa.String(length=255), nullable=True),\n    sa.Column('recipient', sa.String(length=255), nullable=True),\n    sa.Column('origin', sa.String(length=255), nullable=True),\n    sa.Column('destination', sa.String(length=255), nullable=True),\n    sa.Column('location', sa.String(length=255), nullable=True),\n    sa.PrimaryKeyConstraint('id')",
+        "detail": "project-archive.solution.migrations.versions.f1b9ee79cb54_create_packages_table",
+        "documentation": {}
+    },
+    {
+        "label": "downgrade",
+        "kind": 2,
+        "importPath": "project-archive.solution.migrations.versions.f1b9ee79cb54_create_packages_table",
+        "description": "project-archive.solution.migrations.versions.f1b9ee79cb54_create_packages_table",
+        "peekOfCode": "def downgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.drop_table('packages')\n    # ### end Alembic commands ###",
+        "detail": "project-archive.solution.migrations.versions.f1b9ee79cb54_create_packages_table",
+        "documentation": {}
+    },
+    {
+        "label": "revision",
+        "kind": 5,
+        "importPath": "project-archive.solution.migrations.versions.f1b9ee79cb54_create_packages_table",
+        "description": "project-archive.solution.migrations.versions.f1b9ee79cb54_create_packages_table",
+        "peekOfCode": "revision = 'f1b9ee79cb54'\ndown_revision = None\nbranch_labels = None\ndepends_on = None\ndef upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('packages',\n    sa.Column('id', sa.Integer(), nullable=False),\n    sa.Column('sender', sa.String(length=255), nullable=True),\n    sa.Column('recipient', sa.String(length=255), nullable=True),",
+        "detail": "project-archive.solution.migrations.versions.f1b9ee79cb54_create_packages_table",
+        "documentation": {}
+    },
+    {
+        "label": "down_revision",
+        "kind": 5,
+        "importPath": "project-archive.solution.migrations.versions.f1b9ee79cb54_create_packages_table",
+        "description": "project-archive.solution.migrations.versions.f1b9ee79cb54_create_packages_table",
+        "peekOfCode": "down_revision = None\nbranch_labels = None\ndepends_on = None\ndef upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('packages',\n    sa.Column('id', sa.Integer(), nullable=False),\n    sa.Column('sender', sa.String(length=255), nullable=True),\n    sa.Column('recipient', sa.String(length=255), nullable=True),\n    sa.Column('origin', sa.String(length=255), nullable=True),",
+        "detail": "project-archive.solution.migrations.versions.f1b9ee79cb54_create_packages_table",
+        "documentation": {}
+    },
+    {
+        "label": "branch_labels",
+        "kind": 5,
+        "importPath": "project-archive.solution.migrations.versions.f1b9ee79cb54_create_packages_table",
+        "description": "project-archive.solution.migrations.versions.f1b9ee79cb54_create_packages_table",
+        "peekOfCode": "branch_labels = None\ndepends_on = None\ndef upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('packages',\n    sa.Column('id', sa.Integer(), nullable=False),\n    sa.Column('sender', sa.String(length=255), nullable=True),\n    sa.Column('recipient', sa.String(length=255), nullable=True),\n    sa.Column('origin', sa.String(length=255), nullable=True),\n    sa.Column('destination', sa.String(length=255), nullable=True),",
+        "detail": "project-archive.solution.migrations.versions.f1b9ee79cb54_create_packages_table",
+        "documentation": {}
+    },
+    {
+        "label": "depends_on",
+        "kind": 5,
+        "importPath": "project-archive.solution.migrations.versions.f1b9ee79cb54_create_packages_table",
+        "description": "project-archive.solution.migrations.versions.f1b9ee79cb54_create_packages_table",
+        "peekOfCode": "depends_on = None\ndef upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('packages',\n    sa.Column('id', sa.Integer(), nullable=False),\n    sa.Column('sender', sa.String(length=255), nullable=True),\n    sa.Column('recipient', sa.String(length=255), nullable=True),\n    sa.Column('origin', sa.String(length=255), nullable=True),\n    sa.Column('destination', sa.String(length=255), nullable=True),\n    sa.Column('location', sa.String(length=255), nullable=True),",
+        "detail": "project-archive.solution.migrations.versions.f1b9ee79cb54_create_packages_table",
+        "documentation": {}
+    },
+    {
+        "label": "run_migrations_offline",
+        "kind": 2,
+        "importPath": "project-archive.solution.migrations.env",
+        "description": "project-archive.solution.migrations.env",
+        "peekOfCode": "def run_migrations_offline():\n    \"\"\"Run migrations in 'offline' mode.\n    This configures the context with just a URL\n    and not an Engine, though an Engine is acceptable\n    here as well.  By skipping the Engine creation\n    we don't even need a DBAPI to be available.\n    Calls to context.execute() here emit the given string to the\n    script output.\n    \"\"\"\n    url = config.get_main_option(\"sqlalchemy.url\")",
+        "detail": "project-archive.solution.migrations.env",
+        "documentation": {}
+    },
+    {
+        "label": "run_migrations_online",
+        "kind": 2,
+        "importPath": "project-archive.solution.migrations.env",
+        "description": "project-archive.solution.migrations.env",
+        "peekOfCode": "def run_migrations_online():\n    \"\"\"Run migrations in 'online' mode.\n    In this scenario we need to create an Engine\n    and associate a connection with the context.\n    \"\"\"\n    # this callback is used to prevent an auto-migration from being generated\n    # when there are no changes to the schema\n    # reference: http://alembic.zzzcomputing.com/en/latest/cookbook.html\n    def process_revision_directives(context, revision, directives):\n        if getattr(config.cmd_opts, 'autogenerate', False):",
+        "detail": "project-archive.solution.migrations.env",
+        "documentation": {}
+    },
+    {
+        "label": "config",
+        "kind": 5,
+        "importPath": "project-archive.solution.migrations.env",
+        "description": "project-archive.solution.migrations.env",
+        "peekOfCode": "config = context.config\n# Interpret the config file for Python logging.\n# This line sets up loggers basically.\nfileConfig(config.config_file_name)\nlogger = logging.getLogger('alembic.env')\n# add your model's MetaData object here\n# for 'autogenerate' support\n# from myapp import mymodel\n# target_metadata = mymodel.Base.metadata\nfrom flask import current_app",
+        "detail": "project-archive.solution.migrations.env",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "project-archive.solution.migrations.env",
+        "description": "project-archive.solution.migrations.env",
+        "peekOfCode": "logger = logging.getLogger('alembic.env')\n# add your model's MetaData object here\n# for 'autogenerate' support\n# from myapp import mymodel\n# target_metadata = mymodel.Base.metadata\nfrom flask import current_app\nconfig.set_main_option(\n    'sqlalchemy.url',\n    str(current_app.extensions['migrate'].db.engine.url).replace('%', '%%'))\ntarget_metadata = current_app.extensions['migrate'].db.metadata",
+        "detail": "project-archive.solution.migrations.env",
+        "documentation": {}
+    },
+    {
+        "label": "target_metadata",
+        "kind": 5,
+        "importPath": "project-archive.solution.migrations.env",
+        "description": "project-archive.solution.migrations.env",
+        "peekOfCode": "target_metadata = current_app.extensions['migrate'].db.metadata\n# other values from the config, defined by the needs of env.py,\n# can be acquired:\n# my_important_option = config.get_main_option(\"my_important_option\")\n# ... etc.\ndef run_migrations_offline():\n    \"\"\"Run migrations in 'offline' mode.\n    This configures the context with just a URL\n    and not an Engine, though an Engine is acceptable\n    here as well.  By skipping the Engine creation",
+        "detail": "project-archive.solution.migrations.env",
+        "documentation": {}
+    },
+    {
+        "label": "client",
+        "kind": 2,
+        "importPath": "project-archive.solution.tests.test_01_simple_web_responses",
+        "description": "project-archive.solution.tests.test_01_simple_web_responses",
+        "peekOfCode": "def client():\n    from app import app\n    app.config[\"TESTING\"] = True\n    app.config[\"WTF_CSRF_ENABLED\"] = False\n    app.config[\"DEBUG\"] = False\n    with app.test_client() as client:\n        yield client\ndef test_main_page_has_message(client):\n    r = client.get(\"/\")\n    assert b\"<h1>Practice Assessment</h1>\" in r.data",
+        "detail": "project-archive.solution.tests.test_01_simple_web_responses",
+        "documentation": {}
+    },
+    {
+        "label": "test_main_page_has_message",
+        "kind": 2,
+        "importPath": "project-archive.solution.tests.test_01_simple_web_responses",
+        "description": "project-archive.solution.tests.test_01_simple_web_responses",
+        "peekOfCode": "def test_main_page_has_message(client):\n    r = client.get(\"/\")\n    assert b\"<h1>Practice Assessment</h1>\" in r.data\n    assert \"Content-Type\" in r.headers\n    assert \"text/html\" in r.headers.get(\"Content-Type\", \"\")\n@pytest.mark.parametrize(\"field\", [\n    '<input id=\"name\" name=\"name\" required',\n    '<input id=\"age\" name=\"age\"',\n    '<textarea id=\"bio\" name=\"bio\">',\n    '<input id=\"submit\" name=\"submit\" type=\"submit\" value=\"Submit\">',",
+        "detail": "project-archive.solution.tests.test_01_simple_web_responses",
+        "documentation": {}
+    },
+    {
+        "label": "test_simple_form_page",
+        "kind": 2,
+        "importPath": "project-archive.solution.tests.test_01_simple_web_responses",
+        "description": "project-archive.solution.tests.test_01_simple_web_responses",
+        "peekOfCode": "def test_simple_form_page(client, field):\n    r = client.get(\"/simple-form\")\n    content = r.data.decode(\"utf-8\")\n    print(content)\n    assert '<form method=\"post\" action=\"/simple-form\">' in content\n    assert field in content\n@pytest.mark.parametrize(\"name,type,label\", [\n    (\"name\", StringField, \"Name\"),\n    (\"age\", IntegerField, \"Age\"),\n    (\"bio\", TextAreaField, \"Biography\"),",
+        "detail": "project-archive.solution.tests.test_01_simple_web_responses",
+        "documentation": {}
+    },
+    {
+        "label": "test_simple_form_class",
+        "kind": 2,
+        "importPath": "project-archive.solution.tests.test_01_simple_web_responses",
+        "description": "project-archive.solution.tests.test_01_simple_web_responses",
+        "peekOfCode": "def test_simple_form_class(name, type, label):\n    from app.forms import SimpleForm\n    assert FlaskForm in SimpleForm.__bases__\n    attr = getattr(SimpleForm, name)\n    assert attr.field_class == type\n    assert label in attr.args",
+        "detail": "project-archive.solution.tests.test_01_simple_web_responses",
+        "documentation": {}
+    },
+    {
+        "label": "client",
+        "kind": 2,
+        "importPath": "project-archive.solution.tests.test_02_db",
+        "description": "project-archive.solution.tests.test_02_db",
+        "peekOfCode": "def client():\n    from app import app\n    app.config[\"TESTING\"] = True\n    app.config[\"WTF_CSRF_ENABLED\"] = False\n    app.config[\"DEBUG\"] = False\n    with app.test_client() as client:\n        with app.app_context():\n            from app.models import db\n            db.drop_all()\n            db.create_all()",
+        "detail": "project-archive.solution.tests.test_02_db",
+        "documentation": {}
+    },
+    {
+        "label": "test_configuration_has_database_setting",
+        "kind": 2,
+        "importPath": "project-archive.solution.tests.test_02_db",
+        "description": "project-archive.solution.tests.test_02_db",
+        "peekOfCode": "def test_configuration_has_database_setting():\n    from app.config import Configuration\n    for component in [\"postgresql://\", \"pyweb_practice_user\", \"pyweb\", \"localhost\", \"pyweb_practice_db\"]:\n        assert component in Configuration.SQLALCHEMY_DATABASE_URI\ndef test_sqlalchemy_database_uri_configured_properly():\n    from app.config import Configuration\n    from app import app\n    assert app.config.get(\"SQLALCHEMY_DATABASE_URI\", \"\") == Configuration.SQLALCHEMY_DATABASE_URI\ndef test_model_class_has_proper_table_name():\n    from app.models import SimplePerson",
+        "detail": "project-archive.solution.tests.test_02_db",
+        "documentation": {}
+    },
+    {
+        "label": "test_sqlalchemy_database_uri_configured_properly",
+        "kind": 2,
+        "importPath": "project-archive.solution.tests.test_02_db",
+        "description": "project-archive.solution.tests.test_02_db",
+        "peekOfCode": "def test_sqlalchemy_database_uri_configured_properly():\n    from app.config import Configuration\n    from app import app\n    assert app.config.get(\"SQLALCHEMY_DATABASE_URI\", \"\") == Configuration.SQLALCHEMY_DATABASE_URI\ndef test_model_class_has_proper_table_name():\n    from app.models import SimplePerson\n    assert SimplePerson.__tablename__ == \"simple_people\"\n@pytest.mark.parametrize(\"name,type,pk,nullable\", [\n    (\"id\", \"INTEGER\", True, False),\n    (\"name\", \"VARCHAR(50)\", False, False),",
+        "detail": "project-archive.solution.tests.test_02_db",
+        "documentation": {}
+    },
+    {
+        "label": "test_model_class_has_proper_table_name",
+        "kind": 2,
+        "importPath": "project-archive.solution.tests.test_02_db",
+        "description": "project-archive.solution.tests.test_02_db",
+        "peekOfCode": "def test_model_class_has_proper_table_name():\n    from app.models import SimplePerson\n    assert SimplePerson.__tablename__ == \"simple_people\"\n@pytest.mark.parametrize(\"name,type,pk,nullable\", [\n    (\"id\", \"INTEGER\", True, False),\n    (\"name\", \"VARCHAR(50)\", False, False),\n    (\"age\", \"INTEGER\", False, True),\n    (\"bio\", \"VARCHAR(2000)\", False, True),\n])\ndef test_simple_people_has_good_mappings(name, type, pk, nullable):",
+        "detail": "project-archive.solution.tests.test_02_db",
+        "documentation": {}
+    },
+    {
+        "label": "test_simple_people_has_good_mappings",
+        "kind": 2,
+        "importPath": "project-archive.solution.tests.test_02_db",
+        "description": "project-archive.solution.tests.test_02_db",
+        "peekOfCode": "def test_simple_people_has_good_mappings(name, type, pk, nullable):\n    from app.models import SimplePerson\n    attr = getattr(SimplePerson, name)\n    assert name == attr.__dict__.get(\"key\", \"\")\n    assert pk == attr.primary_key\n    assert type == str(attr.type)\n    assert nullable == attr.nullable\n@pytest.mark.parametrize(\"age,bio\", [\n    (None, \"\"),\n    (\"17\", \"\"),",
+        "detail": "project-archive.solution.tests.test_02_db",
+        "documentation": {}
+    },
+    {
+        "label": "test_post_of_good_data",
+        "kind": 2,
+        "importPath": "project-archive.solution.tests.test_02_db",
+        "description": "project-archive.solution.tests.test_02_db",
+        "peekOfCode": "def test_post_of_good_data(client, age, bio):\n    r = client.post(\n        '/simple-form',\n        data={'name': 'name', 'age': age, 'bio': bio},\n        follow_redirects=True\n    )\n    content = r.data.decode(\"utf-8\")\n    assert \"<h1>Practice Assessment</h1>\" in content, f\"Failed on age={age}, bio={bio}\"\ndef test_post_of_bad_data(client):\n    r = client.post(",
+        "detail": "project-archive.solution.tests.test_02_db",
+        "documentation": {}
+    },
+    {
+        "label": "test_post_of_bad_data",
+        "kind": 2,
+        "importPath": "project-archive.solution.tests.test_02_db",
+        "description": "project-archive.solution.tests.test_02_db",
+        "peekOfCode": "def test_post_of_bad_data(client):\n    r = client.post(\n        '/simple-form',\n        data={'name': '', 'age': None, 'bio': \"\"},\n        follow_redirects=True\n    )\n    content = r.data.decode(\"utf-8\")\n    assert \"Bad Data\" in content\ndef test_simple_form_data_retrieval(client):\n    from app import app",
+        "detail": "project-archive.solution.tests.test_02_db",
+        "documentation": {}
+    },
+    {
+        "label": "test_simple_form_data_retrieval",
+        "kind": 2,
+        "importPath": "project-archive.solution.tests.test_02_db",
+        "description": "project-archive.solution.tests.test_02_db",
+        "peekOfCode": "def test_simple_form_data_retrieval(client):\n    from app import app\n    with app.app_context():\n        from app.models import db, SimplePerson\n        db.session.add(SimplePerson(name=\"Marley\", age=21, bio=\"Living life\"))\n        db.session.add(SimplePerson(name=\"Harley\", age=100, bio=\"Rocking chair demon\"))\n        db.session.commit()\n    r = client.get(\"/simple-form-data\")\n    content = r.data.decode(\"utf-8\")\n    assert \"Marley\" in content",
+        "detail": "project-archive.solution.tests.test_02_db",
+        "documentation": {}
+    },
+    {
+        "label": "root_endpoint",
+        "kind": 2,
+        "importPath": "project-archive.solution.package_tracker",
+        "description": "project-archive.solution.package_tracker",
+        "peekOfCode": "def root_endpoint():\n    packages = Package.query.all()\n    return render_template('package_status.html', packages=packages)\n@app.route('/new_package', methods=['GET', 'POST'])\ndef form():\n    form = ShippingForm()\n    print('submit:', form.submit.data)\n    print('cancel:', form.cancel.data)\n    if form.cancel.data:\n        return redirect('/')",
+        "detail": "project-archive.solution.package_tracker",
+        "documentation": {}
+    },
+    {
+        "label": "form",
+        "kind": 2,
+        "importPath": "project-archive.solution.package_tracker",
+        "description": "project-archive.solution.package_tracker",
+        "peekOfCode": "def form():\n    form = ShippingForm()\n    print('submit:', form.submit.data)\n    print('cancel:', form.cancel.data)\n    if form.cancel.data:\n        return redirect('/')\n    if form.validate_on_submit():\n        data = form.data\n        new_package = Package(sender=data[\"sender_name\"],\n                              recipient=data[\"recipient_name\"],",
+        "detail": "project-archive.solution.package_tracker",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "project-archive.solution.package_tracker",
+        "description": "project-archive.solution.package_tracker",
+        "peekOfCode": "app = Flask(__name__)\napp.config.from_object(Config)\ndb.init_app(app)\nmigrate = Migrate(app, db)\n@app.route('/')\ndef root_endpoint():\n    packages = Package.query.all()\n    return render_template('package_status.html', packages=packages)\n@app.route('/new_package', methods=['GET', 'POST'])\ndef form():",
+        "detail": "project-archive.solution.package_tracker",
+        "documentation": {}
+    },
+    {
+        "label": "migrate",
+        "kind": 5,
+        "importPath": "project-archive.solution.package_tracker",
+        "description": "project-archive.solution.package_tracker",
+        "peekOfCode": "migrate = Migrate(app, db)\n@app.route('/')\ndef root_endpoint():\n    packages = Package.query.all()\n    return render_template('package_status.html', packages=packages)\n@app.route('/new_package', methods=['GET', 'POST'])\ndef form():\n    form = ShippingForm()\n    print('submit:', form.submit.data)\n    print('cancel:', form.cancel.data)",
+        "detail": "project-archive.solution.package_tracker",
+        "documentation": {}
+    }
+]
